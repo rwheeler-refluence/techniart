@@ -1,0 +1,34 @@
+[24-Aug-2016 17:32:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 62
+[24-Aug-2016 17:32:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 62
+[24-Aug-2016 17:32:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 62
+[24-Aug-2016 17:32:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 62
+[24-Aug-2016 17:35:26 America/Denver] PHP Warning:  getimagesize(/services/webpages/t/e/techniart.com/public/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 52
+[24-Aug-2016 17:35:26 America/Denver] PHP Warning:  getimagesize(/services/webpages/t/e/techniart.com/public/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 52
+[24-Aug-2016 17:35:27 America/Denver] PHP Warning:  getimagesize(/services/webpages/t/e/techniart.com/public/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 52
+[24-Aug-2016 17:35:27 America/Denver] PHP Warning:  getimagesize(/services/webpages/t/e/techniart.com/public/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/ambit/store.php on line 52
+[24-Aug-2016 17:39:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[24-Aug-2016 17:40:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[24-Aug-2016 17:42:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[24-Aug-2016 17:42:06 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/ambit/orderform.php on line 354
+[29-Aug-2016 13:36:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[09-Sep-2016 11:01:17 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[12-Sep-2016 20:00:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[14-Oct-2016 10:50:21 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techniar/public_html/ambit/changezip2.php:17) in /home/techniar/public_html/ambit/changezip2.php on line 19
+[17-Oct-2016 14:56:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[18-Oct-2016 07:47:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[18-Oct-2016 07:48:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[18-Jan-2017 21:57:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[18-Jan-2017 21:59:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[02-Mar-2017 13:54:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[02-Mar-2017 13:54:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ambit/cart.php on line 179
+[02-Mar-2017 14:03:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[02-Mar-2017 14:03:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ambit/cart.php on line 179
+[02-Mar-2017 14:03:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ambit/cart.php on line 179
+[03-Mar-2017 12:27:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[03-Mar-2017 12:27:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ambit/cart.php on line 179
+[03-Mar-2017 12:28:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[03-Mar-2017 12:28:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ambit/cart.php on line 179
+[03-Mar-2017 12:28:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ambit/orderform.php on line 337
+[03-Mar-2017 12:28:23 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/ambit/orderform.php on line 354
+[05-Apr-2017 13:40:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ambit/cart.php on line 31
+[05-Apr-2017 13:40:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ambit/cart.php on line 179

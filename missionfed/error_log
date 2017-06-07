@@ -1,0 +1,106 @@
+[17-Apr-2017 23:07:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed-2017/cart.php on line 35
+[17-Apr-2017 23:07:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed-2017/cart.php on line 35
+[17-Apr-2017 23:07:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed-2017/cart.php on line 35
+[17-Apr-2017 23:07:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed-2017/orderform.php on line 311
+[17-Apr-2017 23:07:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed-2017/orderform.php on line 311
+[17-Apr-2017 23:07:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed-2017/orderform.php on line 311
+[17-Apr-2017 23:13:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed-2017/orderform.php on line 311
+[17-Apr-2017 23:13:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed-2017/orderform.php on line 311
+[17-Apr-2017 23:13:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed-2017/orderform.php on line 311
+[19-Apr-2017 08:24:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[19-Apr-2017 14:04:42 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[19-Apr-2017 14:18:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[19-Apr-2017 14:19:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[19-Apr-2017 14:19:25 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[19-Apr-2017 14:19:26 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[19-Apr-2017 14:19:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[19-Apr-2017 14:19:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[19-Apr-2017 14:19:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[24-Apr-2017 10:04:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[24-Apr-2017 10:05:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[24-Apr-2017 10:06:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[24-Apr-2017 10:06:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[24-Apr-2017 10:09:42 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[24-Apr-2017 10:09:44 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[24-Apr-2017 10:09:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 92
+[24-Apr-2017 10:09:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 94
+[25-Apr-2017 12:35:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 12:35:56 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 12:36:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 12:36:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 12:37:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 12:37:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 12:43:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 12:43:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 13:12:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 13:12:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 13:13:22 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 13:15:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 13:15:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 13:18:15 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 13:18:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 13:18:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 14:05:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 14:06:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 14:55:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 14:55:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 15:10:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 15:11:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 15:11:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 15:11:56 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 15:14:46 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[25-Apr-2017 15:14:48 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[25-Apr-2017 15:14:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 81
+[25-Apr-2017 15:14:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 83
+[25-Apr-2017 15:24:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 15:24:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 15:25:00 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[25-Apr-2017 15:25:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[25-Apr-2017 15:25:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[26-Apr-2017 11:57:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[26-Apr-2017 11:57:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[26-Apr-2017 11:59:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[26-Apr-2017 12:00:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[26-Apr-2017 12:00:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[26-Apr-2017 12:02:17 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[26-Apr-2017 12:02:18 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[26-Apr-2017 12:02:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 81
+[26-Apr-2017 12:02:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 83
+[27-Apr-2017 15:04:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[27-Apr-2017 15:04:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[27-Apr-2017 15:04:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[27-Apr-2017 15:04:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[27-Apr-2017 15:06:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[27-Apr-2017 15:06:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[27-Apr-2017 15:09:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[27-Apr-2017 15:09:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[27-Apr-2017 15:10:27 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[27-Apr-2017 15:10:31 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[27-Apr-2017 15:10:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 81
+[27-Apr-2017 15:10:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 83
+[28-Apr-2017 10:16:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[28-Apr-2017 10:16:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[28-Apr-2017 10:17:37 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[28-Apr-2017 10:17:39 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[28-Apr-2017 10:17:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 81
+[28-Apr-2017 10:17:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 83
+[28-Apr-2017 12:02:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[28-Apr-2017 12:03:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[28-Apr-2017 12:04:27 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[28-Apr-2017 12:04:28 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[28-Apr-2017 17:35:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[28-Apr-2017 17:35:59 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[28-Apr-2017 17:36:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[28-Apr-2017 17:36:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[28-Apr-2017 17:45:15 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[28-Apr-2017 17:45:16 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[28-Apr-2017 17:45:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 81
+[28-Apr-2017 17:45:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 83
+[28-Apr-2017 18:58:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[28-Apr-2017 18:58:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/cart.php on line 35
+[28-Apr-2017 18:59:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[28-Apr-2017 18:59:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/missionfed/orderform.php on line 311
+[28-Apr-2017 19:01:43 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 146
+[28-Apr-2017 19:01:45 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/missionfed/phpauthnet_aim.php on line 167
+[28-Apr-2017 19:01:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 81
+[28-Apr-2017 19:01:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/missionfed/process.php on line 83

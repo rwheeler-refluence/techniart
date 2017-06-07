@@ -1,0 +1,4 @@
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4147202258598455&x_exp_date=005&x_amount=6.25&x_invoice_num=28380008&x_first_name=Haizhou&x_last_name=Wu&x_address=16406+SE+35th+ST+&x_city=Bellevue&x_state=WA&x_zip=98008
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4147202258598455&x_exp_date=0519&x_amount=6.25&x_invoice_num=28380008&x_first_name=Haizhou&x_last_name=Wu&x_address=16406+SE+35th+ST+&x_city=Bellevue&x_state=WA&x_zip=98008

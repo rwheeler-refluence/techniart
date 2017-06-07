@@ -1,0 +1,17 @@
+[11-Nov-2016 10:31:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/show_orders_by_vendor.php on line 52
+[08-Mar-2017 10:42:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/show_orders_by_vendor.php on line 52
+[08-Mar-2017 10:43:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/show_orders_by_vendor.php on line 52
+[08-Mar-2017 10:43:24 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/show_cats.php on line 84
+[08-Mar-2017 10:44:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/show_events.php on line 52
+[08-Mar-2017 10:44:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/show_discounts.php on line 38
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/add_discount.php on line 79
+[08-Mar-2017 10:44:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi/admin/show_discounts.php on line 38

@@ -1,0 +1,44 @@
+<div style="position:absolute;left:0px;top:0px; height:65px;padding-top:5px;width:730px;font: 18px Fjalla One; font-weight:regular;background-color:#86B800;color:#ffffff;z-index: 5;-moz-border-radius: 12px; border-radius: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;Sign In or Register</div>
+<div id="close" style="position:absolute;left:695px;top:6px; z-index: 50000;"><a href="#" onclick="showSec('prods');">&nbsp</a> </div>
+
+
+<div style="position:absolute;left:0px;top:35px; height:35px;width:730px;font: 16px Fjalla One; font-weight:regular;background-color:#ffffff;color:#00000;z-index: 6;">&nbsp;</div>
+
+<div style="position:absolute;left:35px;top:75px; height:50px;padding-top:2px;width:365px;font: 16px Fjalla One; font-weight:regular;color:#1d4d7b;z-index: 7;">I have an account</div>
+
+<div class="signininput" style="position:absolute;left:35px;top:125px; height:85px;width:275px;border: 0px dashed #000000;font: 18px Fjalla One; font-weight:regular;color:#00000;z-index: 6;line-height:25px;">
+
+<table>
+
+<form action="" method="post" class="form" id="signinForm">
+  <TR width="100%">
+      <td style="line-height:50px;" width="35%" align="left" class="signinlbl" valign="middle">Acct #&nbsp;</TD>
+      <td style="line-height:50px;" width="65%" align="right" valign="middle"><input type="text" id="theacctnum" onchange="" tabindex="1" size="15" MAXLENGTH = 35/></TD>
+  </TR>
+
+  <TR width="100%">
+      <td style="line-height:50px;" width="35%" align="left" class="signinlbl" valign="middle">Password&nbsp;</TD>
+      <td style="line-height:50px;" width="65%" align="right" valign="middle"><input type="text" id="thepass" tabindex="2" onchange="" size="15" MAXLENGTH = 30/></TD>
+  </TR>
+  
+ </form>
+  
+</table>     
+
+</div>
+
+
+<div style="position:absolute;left:410px;top:75px; height:50px;padding-top:2px;width:275px;font: 16px Fjalla One; font-weight:regular;color:#1d4d7b;z-index: 7;">I don't have an account</div>
+
+<div style="position:absolute;left:410px;top:125px; height:85px;width:275px;border: 0px dashed #000000;font: 14px Archivo Narrow; line-height:175%;font-weight:regular;color:#000000;z-index: 6;">
+
+<p>Sign up for free if you are a homeowner and pay your water bill to a Cascade member, you can order any water conservation item on the website for free. You just pay the shipping.</p>
+
+</div>
+
+<!--<div style="position:absolute;left:105px;top:245px; height:25px;width:150px;font: 11px arial;font-weight:bold;color:#194D75;z-index: 6;line-height:25px;" ><input type="checkbox" id="rememberbox" onchange="alert('set a cookie for user and set to login from cookie on return.');" />&nbsp;&nbsp;Remember Me</a> </div>
+<div style="position:absolute;left:207px;top:245px; height:25px;width:5px;font: 11px arial;font-weight:bold;color:#194D75;z-index: 6;line-height:25px;" >|</div>-->
+<div style="position:absolute;left:35px;top:245px; height:25px;width:150px;font: 11px Archivo Narrow; font-weight:regular;color:color:#194D75;z-index: 6;line-height:25px;" ><a href="#" onclick="showSec('forgotpass');">Forgot Password</a> </div>
+
+<div style="position:absolute;left:165px;top:320px; height:35px;text-align:center;padding-top: 4px;width:150px;font: 24px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="mlogin();">SIGN IN</div>
+<div style="position:absolute;left:530px;top:320px; height:35px;text-align:center;padding-top: 4px;width:150px;font: 24px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="showSec('register');">REGISTER</div>

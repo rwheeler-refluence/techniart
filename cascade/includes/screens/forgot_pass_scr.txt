@@ -1,0 +1,32 @@
+<div style="position:absolute;left:0px;top:0px; height:65px;padding-top:5px;width:585px;font: 18px Fjalla One; font-weight:regular;background-color:#86B800;color:#ffffff;z-index: 5;-moz-border-radius: 12px; border-radius: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;Sign In or Register</div>
+<div id="close" style="position:absolute;left:560px;top:6px; z-index: 50000;"><a href="#" onclick="showSec('prods');">&nbsp</a> </div>
+
+
+<div style="position:absolute;left:0px;top:35px; height:35px;width:585px;font: 16px Fjalla One; font-weight:regular;background-color:#ffffff;color:#00000;z-index: 6;">&nbsp;</div>
+
+<div style="position:absolute;left:35px;top:75px; height:50px;padding-top:2px;width:365px;font: 16px Fjalla One; font-weight:regular;color:#1d4d7b;z-index: 7;">Please give us your email address.</div>
+
+<div class="signininput" style="position:absolute;left:35px;top:125px; height:85px;width:535px;border: 0px dashed #000000;font: 18px Fjalla One; font-weight:regular;color:#00000;z-index: 6;line-height:25px;">
+
+<table>
+
+<form action="" method="post" class="form" id="passForm">
+  
+ <TR width="100%">
+      <td style="line-height:30px;" width="10%" align="left" class="signinlbl" valign="middle">Email&nbsp;</TD>
+      <td style="line-height:30px;" width="90%" align="right" valign="middle"><input type="text" id="theacctnum22" onchange="" tabindex="1" size="43" MAXLENGTH = 135/></TD>
+  </TR>
+
+ 
+  
+ </form>
+  
+</table>     
+
+</div>
+
+
+
+
+
+<div style="position:absolute;left:35px;top:225px; height:35px;text-align:center;padding-top: 4px;width:170px;font: 24px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="sndpass();">SEND IT</div>

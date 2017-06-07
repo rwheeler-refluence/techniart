@@ -1,0 +1,519 @@
+<?
+header('Expires: Sat, 26 Jul 1997 05:00:00 GMT');
+header('Cache-Control: no-store, no-cache, must-revalidate');
+header('Cache-Control: pre-check=0, post-check=0, max-age=0');
+header ('Pragma: no-cache');
+error_reporting(0);
+//if php includes stop working something is wrong with this header
+if (isset($_GET['j1'])) {   
+  	
+	$theacct=$_GET['j1'];
+  	$thepass=$_GET['j2'];
+    $islogin="Y";
+
+} else {
+	
+	$islogin="N";
+}
+
+
+?> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>CASCADE WATER ALLIANCE |  Free Items</title>
+
+
+<link rel="stylesheet" type="text/css" href="css/main.css"/>
+
+<style type="text/css">
+
+
+
+
+ 
+#pleasewait {position: absolute; top: 0px; left:0px; height:3500px; width:100%;font: 12px Archivo Narrow, Arial, Helvetica; visibility:hidden; z-index: 100000; background-color:#eee;filter:alpha(opacity=50); -moz-opacity:0.5 ;opacity: 0.5;}
+#checkout a {background: url(images/checkout.jpg) 0 0 no-repeat;width:148px;height:62px;position: absolute;top: auto;left: auto;bottom: auto;text-decoration:none;}
+#checkout a:hover {background: url(images/checkout.jpg) 0 0 no-repeat;width:148px;height:62px;position: absolute;top: auto;left: auto;bottom: auto;text-decoration:none;}
+#checkout a:active {background: url(images/checkout.jpg) 0 0 no-repeat;width:148px;height:62px;position: absolute;top: auto;left: auto;bottom: auto;text-decoration:none;}
+
+#close a {background: url(images/close.png) 0 0 no-repeat;width:148px;height:62px;position: absolute;top: auto;left: auto;bottom: auto;text-decoration:none;}
+#close a:hover {background: url(images/close.png) 0 0 no-repeat;width:148px;height:62px;position: absolute;top: auto;left: auto;bottom: auto;text-decoration:none;}
+#close a:active {background: url(images/close.png) 0 0 no-repeat;width:148px;height:62px;position: absolute;top: auto;left: auto;bottom: auto;text-decoration:none;}
+
+
+#prods {position: absolute; top: 700px; left:300px; height:2525px; width:975px;display:block;background:#ffffff; border: 0px solid #000000; z-index: 1000; background-color:#ffffff;filter:alpha(opacity=100); -moz-opacity:1.0;opacity: 1.0;}
+#register {position: absolute; top: 415px; left:0px; height:1300px; width:975px;display:none;background:#ccc; border: 0px solid #000000; z-index: 1001; background-color:#ffffff;filter:alpha(opacity=100); -moz-opacity:1.0;opacity: 1.0;-moz-border-radius: 0px; border-radius: 0px;}
+
+#cart {position: absolute; top: 415px; left:0px; height:700px; width:975px;display:none;background:#ccc; border: 0px solid #000000; z-index: 1001; background-color:#ffffff;filter:alpha(opacity=100); -moz-opacity:1.0;opacity: 1.0;-moz-border-radius: 0px; border-radius: 0px;}
+#review_checkout {position: absolute; top: 415px; left:0px; height:700px; width:975px;display:none;background:#ccc; border: 0px solid #000000; z-index: 1001; background-color:#ffffff;filter:alpha(opacity=100); -moz-opacity:1.0;opacity: 1.0;-moz-border-radius: 0px; border-radius: 0px;}
+#forgotpass {position: absolute; top: 185px; left:325px; height:325px; width:585px;display:none;background:#ccc; border: 2px solid #8EC100; z-index: 1002; background-color:#ffffff;filter:alpha(opacity=100); -moz-opacity:1.0;opacity: 1.0;-moz-border-radius: 15px; border-radius: 15px;}
+#signin {position: absolute; top: 385px; left:250px; height:475px; width:730px;display:none;background:#ccc; border: 2px solid #8EC100; z-index: 1001; background-color:#ffffff;filter:alpha(opacity=100); -moz-opacity:1.0;opacity: 1.0;-moz-border-radius: 15px; border-radius: 15px;}
+#messagescr {position: absolute; top: 215px; left:340px; height:450px; width:570px;display:none;background:#ccc; border: 2px solid #8EC100; z-index: 10003; background-color:#ffffff;filter:alpha(opacity=100); -moz-opacity:1.0;opacity: 1.0;-moz-border-radius: 15px; border-radius: 15px;}
+li~li { 
+	border-left: 1px solid #ffffff;
+}
+
+</style>
+
+
+<!-- main functions for setting up httpObject for AJAX stlye calls -used in all three tabs -->
+<script src="includes/httpobject.js"></script>
+
+<!-- main functions for all js files -used in all three tabs -->
+<script src="includes/functions.js"></script>
+
+<!-- main functions for deleting records -used in all three tabs -->
+<script src="includes/addedit.js"></script>
+<script src="includes/login.js"></script>
+<script src="includes/cart.js"></script>
+
+<script type="text/javascript">
+
+
+  window.addEventListener("myPopStateHandler", function(e) { 
+    var url = window.location.href; 
+    url=url.split('#')[0]
+    url += (url.indexOf('?') > -1)?"&":"?" + "j1=" + encodeURIComponent(document.getElementById('j1').value) + "&j2=" +encodeURIComponent(document.getElementById('j2').value);
+    window.location = url;
+    window.location.reload(); 
+  });
+
+function showwait(){
+	
+	document.getElementById('pleasewait').style.visibility = "visible";	 
+}
+
+function hidewait(){
+	document.getElementById('pleasewait').style.visibility = "hidden";
+}
+
+function hidemessage(){
+	document.getElementById('messagescr').style.visibility = "hidden";
+}
+
+// the next two are for the three department layers
+function showSec(n) {
+
+document.body.scrollTop = document.documentElement.scrollTop = 0;	
+        	
+if (n !="messagescr"){
+  hideSec();
+}
+
+var doc = document.documentElement, body = document.body;
+    var left = (doc && doc.scrollLeft || body && body.scrollLeft || 0);
+    var top = (doc && doc.scrollTop  || body && body.scrollTop  || 0);
+	top=top+150;
+	
+
+if (n=="messagescr"){
+	
+	var str = document.getElementById('themessage').innerHTML;
+    var xn = str.length;
+	var mline=Math.round((xn/80),0);
+	
+	
+	var mheight=200+(mline*40);
+	document.getElementById(n).style.height=mheight+"px"; 
+    //document.getElementById(n).style.left="50px";
+	
+}
+	
+
+	
+if (n=="register" || n=="cart" || n=="review_checkout"){
+  var stateObj = { foo: null };
+  history.pushState(stateObj, "home", "index.php");
+  document.getElementById('prods').style.visibility = "hidden";
+  
+  var userinfo=getCookie("cinfo");
+  
+  if (userinfo){
+  	var acctinfo = eval("(" + userinfo + ')');
+  	//alert(acctinfo['fname']);
+  
+  	if ( trim(acctinfo['fname']) !="" ) {
+
+     document.getElementById('acct_num').value=acctinfo['acct'];
+     document.getElementById('fname').value=acctinfo['fname'];
+     document.getElementById('lname').value=acctinfo['lname'];
+     document.getElementById('add1').value=acctinfo['add1'];
+     document.getElementById('add2').value=acctinfo['add2'];
+     document.getElementById('city').value=acctinfo['city'];
+     document.getElementById('state').value='WA';
+     document.getElementById('zip').value=acctinfo['zip'];
+     
+     var md= acctinfo['cascade_member'];
+     var mi=0;
+     
+     if (md=='Bellevue'){
+	     mi=1;
+     } else if (md=='Covington water District'){
+	     mi=2;    
+	 } else if (md=='Issaquah'){ 
+		 mi=3;
+	 } else if (md=='Kirklan'){ 
+		 mi=4;	         
+     } else if (md=='Redmond'){ 
+		 mi=5;	         
+     } else if (md=='Sammamish Plateau'){ 
+         mi=6;
+     } else if (md=='Skyway'){ 
+         mi=7;
+	 } else if (md=='Tukwila'){  
+		 mi=8;
+     }
+     
+     document.getElementById("cascade_member").selectedIndex=mi;
+ 
+ 
+     //document.getElementById('cascade_member').value=acctinfo['cascade_member'];
+     
+     
+     document.getElementById('b_fname').value=acctinfo['b_fname'];
+     document.getElementById('b_lname').value=acctinfo['b_lname'];
+     document.getElementById('b_add1').value=acctinfo['b_add1'];
+     document.getElementById('b_add2').value=acctinfo['b_add2'];
+     document.getElementById('b_city').value=acctinfo['b_city'];
+     document.getElementById('b_state').value=acctinfo['b_state'];
+     document.getElementById('b_zip').value=acctinfo['b_zip'];
+     document.getElementById('email').value=acctinfo['email'];
+     document.getElementById('phone').value=acctinfo['phone'];
+     document.getElementById('pass').value=acctinfo['pass'];
+	 document.getElementById('pass2').value=acctinfo['pass'];
+	  
+  	} 
+  }
+  
+}	
+
+
+
+document.getElementById(n).style.visibility = "visible";	  
+document.getElementById(n).style.display = "block";
+document.getElementById("signin").style.top=top+"px"; 
+
+
+}
+
+function hideSec() {
+    document.getElementById('signin').style.visibility = "hidden";
+	document.getElementById('register').style.visibility = "hidden";
+    document.getElementById('cart').style.visibility = "hidden";
+    document.getElementById('review_checkout').style.visibility = "hidden";
+    document.getElementById('forgotpass').style.visibility = "hidden";
+}
+
+function useaddr() {
+   
+    document.getElementById('b_fname').value=document.getElementById('fname').value
+    document.getElementById('b_lname').value=document.getElementById('lname').value
+    document.getElementById('b_add1').value=document.getElementById('add1').value
+    document.getElementById('b_add2').value=document.getElementById('add2').value
+    document.getElementById('b_city').value=document.getElementById('city').value
+    document.getElementById('b_state').value=document.getElementById('state').value
+    document.getElementById('b_zip').value=document.getElementById('zip').value
+       
+}
+
+function checklog(mnum){
+	
+	
+		
+	if (isNaN(mnum)=='true'){
+		
+	   //alert(mnum+" is not a number"); 
+	   document.getElementById('themessage').innerHTML="You must enter a numeric value.<br>";
+       showSec('messagescr');  
+	    
+	    
+	    
+    } else {
+	    
+	  
+	  var mlog=trim(document.getElementById('j3').value);
+	
+		//alert(mnum+" is a number");
+	    
+		if (mlog !='Y'){
+	      showSec('signin');
+	    } else {
+		  cart_proc('add');
+	    }
+	  
+	      
+    }
+	    
+}
+
+function theonload(){
+	setTimeout( function() {
+  window.addEventListener( 'popstate', myPopStateHandler, false );
+}, 500 );
+
+	
+	if (trim(document.getElementById('j3').value) =="Y"){
+	   document.getElementById('theacctnum').value=document.getElementById('j1').value;	
+	   document.getElementById('thepass').value = document.getElementById('j2').value;
+	   mlogin();
+	   
+    } else {
+	   
+	     var userinfo=getCookie("cinfo");
+	     var acctinfo = eval("(" + userinfo + ')');
+        
+         //alert(acctinfo['fname']);
+	    
+         var thelname = acctinfo['fname']; 
+         
+         //if there is a cookie go ahead and reset   
+	     if (trim(thelname) !=""){
+	
+	        document.getElementById('userlbl').innerHTML="Hello "+thelname+"    |";
+	        document.getElementById('useracctlbl').style.display = "block";
+	        document.getElementById('userlbllout').style.display = "block";
+	        document.getElementById("userlbllout").style.left="655px"; 
+	        
+            document.getElementById("userlbl").style.left="740px"; 
+            document.getElementById("cartlbl").style.left="910px";
+       
+            document.getElementById('j1').value=acctinfo['acct'];    
+            document.getElementById('j2').value=acctinfo['pass'];   
+            document.getElementById('j3').value="Y";
+            
+            var mcartinfo=getCookie("cartinfo");
+	        var cartinfo = eval("(" + mcartinfo + ')');
+            
+	     
+            if (cartinfo['p1'] > 0){
+   		      document.getElementById('p1').value=cartinfo['p1'];
+		    } 
+		    if(cartinfo['p2'] > 0){ 
+              document.getElementById('p2').value=cartinfo['p2'];
+		    } 
+		    if(cartinfo['p3'] > 0){ 
+			  document.getElementById('p3').value=cartinfo['p3']; 
+            } 
+            if(cartinfo['p4'] > 0){ 
+              document.getElementById('p4').value=cartinfo['p4'];
+	        } 
+	        if(cartinfo['p5'] > 0){ 
+              document.getElementById('p5').value=cartinfo['p5'];
+		    } 
+		    if(cartinfo['p6'] > 0){ 
+              document.getElementById('p6').value=cartinfo['p6'];
+		    } 
+		    if(cartinfo['p7'] > 0){ 
+              document.getElementById('p7').value=cartinfo['p7'];
+	        } 
+	        if(cartinfo['p8'] > 0){ 
+              document.getElementById('p8').value=cartinfo['p8'];
+		    } 
+		    if(cartinfo['p9'] > 0){ 
+              document.getElementById('p9').value=cartinfo['p9'];
+		    } 
+		    if(cartinfo['p10'] > 0){ 
+              document.getElementById('p10').value=cartinfo['p10'];
+	        }
+       
+           
+       
+         }
+         
+         showSec('prods');
+	    
+    }
+    
+   
+}
+
+
+</script>
+
+</head>
+
+<body id="reliability" onload="theonload();">
+<div id="pleasewait">
+
+<? include("includes/screens/pleasewait_scr.txt"); ?>
+
+
+</div>
+
+<form method="get" name="mainform" id="mainform">
+<INPUT TYPE="hidden" id="j1" value="<?php ECHO $theacct; ?>">
+<INPUT TYPE="hidden" id="j2" value="<?php ECHO $thepass; ?>">
+<INPUT TYPE="hidden" id="j3" value="<?php ECHO $islogin; ?>">
+<INPUT TYPE="hidden" id="j4" value="0.00">
+
+<div id="header"><div id="logo_pic" style="z-index:10000;"></div></div>
+
+<div id="container" style="position;relative;">
+<div id="content_container">
+<div id="header_pic"></div>
+
+
+<div style="position:absolute;height:45px;left:0px;top:290px;width:975px;border:0px solid #ccc;z-index:14;background-color: #1d4d7b;">
+</div>
+
+
+
+<div id="mainmenu" class="mainmenu" style="position:absolute;height:45px;top:289px;border: 0px solid #ccc;z-index:15;">
+
+<ul>
+ <li><a id="nav-home" class="first" href="http://cascadewater.org/">HOME</a></li>
+ <li><a id="nav-about" href="http://cascadewater.org/about_us.php">ABOUT</a></li>
+ <li><a id="nav-reliability" onclick="showSec('relsubmenu');" href="#">WATER RELAIABILITY</a></li>
+ <li><a id="nav-lktapps" href="http://cascadewater.org/lake_tapps_overview.php">LAKE TAPPS COMMUNITY</a></li>
+ <li><a id="nav-partnerships" href="http://cascadewater.org/news/">NEWS</a></li>
+ <li><a id="nav-cal" href="http://cascadewater.org/event/">CALENDAR</a></li>
+ <li><a id="nav-contact" class="last" href="http://cascadewater.org/contact.php">CONTACT</a></li>
+ </ul>
+</div>
+
+<div id="relsubmenu" class="relsubmenu" style="position:absolute;width:975px;height:30px;left:10px;top:334px;border:0px solid #ccc;z-index:20;margin-top:2px;">
+<ul>
+ 
+ <li><a id="nav-overview" class="first" href="http://cascadewater.org/about_us.php">Overview</a></li>
+ <li><a id="nav-planning" href="http://cascadewater.org/supply_plans_2012.php">Water Planning</a></li>
+ <li><a id="nav-efficiency" href="http://cascadewater.org/conservation.php">Water Efficiency</a></li>
+ <li><a id="nav-quality" href="http://cascadewater.org/water_quality_reliability.php">Water Quality</a></li>
+ <li><a id="nav-leadership" href="http://cascadewater.org/regional_leadership.php">Regional Leadership</a></li>
+ <li><a id="nav-gardener" href="http://cascadewater.org/classes.php">Cascade Gardener</a></li>
+ 
+ </ul>
+  
+ 
+ 
+ 
+</div><!--end of menu-->
+
+<div style="position:absolute;height:30px;left:0px;top:335px;width:975px;border:0px solid #ccc;z-index:15;background:url(images/submenu.png);">
+</div>
+
+
+
+
+
+
+
+
+<div id="mycontent_1" style="position:absolute;width:700px;height:275px;left:0px;top:357px;background-color:#ffffff;border:0px solid #ccc;z-index:14;padding-left:50px;padding-top:30px;">
+
+<p style="font: 20px Fjalla One; font-weight:regular;color:#1d4d7b;">Free Water Saving Items | <span class="caps">STORE</span><p>
+
+	<p style="font: 28px Fjalla One; font-weight:regular;color:#86b800;padding-top:20px;">Order Free Water Saving Items</p>
+    <br />
+	<p style="font: 20px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:5px;">Cascade provides the conservation items; you pay the postage.</p>
+	<p style="font: 17.5px Archivo Narrow; font-weight:regular;color:#000000;padding-top:7px;line-height:150%">Cascade's WaterSense Partnership program provides free showerheads, faucet aerators, shower <br>timers and other conservation items to homeowners to help them save water.  If you are a<br> homeowner and pay your water bill to a Cascade member, you can order any water conservation<br> item on this website page for free.  You just need a copy of your water bill showing the account<br>number or customer number.</p>
+	<br />
+
+</div>
+
+
+
+<div id="mycontent_2" style="position:absolute;width:225px;height:304px;left:730px;top:357px;background-color:#ffffff;border:0px solid #000000;z-index:14;padding-left:20px;padding-top:1px;">
+<div style="position:absolute;width:220px;height:304px;left:5px;top:5px;border:0px solid #000000;">
+	<p style="font: 20px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:70px;">Free Water Saving Items</p>
+    <p style="font: 17px Fjalla One; font-weight:regular;color:#86b800;padding-top:25px;">Store</p>
+    <p style="font: 17px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:10px;"><a id="nav-planning" href="http://cascadewater.org/free-items.php">About the Free Program</a></p>
+    <p style="font: 20px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:30px;">Downloads</p>
+    <p style="font: 17px Fjalla One, font-weight:regular;color:#1d4d7b;padding-top:10px;"><a id="nav-planning" href="http://cascadewater.org/media/MultiFamily-Water-Efficiency-Program-Application.doc">Order Form for Multi-Family Buildings</a></p>
+</div>
+</div>
+
+
+
+<div style="position:absolute;left:730px;top:690px; height:25px;text-align:center;padding-top: 4px;width:175px;font: 20px Fjalla One; font-weight:regular;background-color:#1c4c78;color:#ffffff;z-index: 50;-moz-border-radius: 5px; border-radius: 5px;" onclick="cart_proc('get');">Shopping Cart</div>
+
+
+
+
+<div id="userlbl" style="position:absolute;left:800px;top:370px;height:25px;width:75px;text-align:right;border:0px solid #ccc;color:#194D75;display:block;font: 12px Fjalla One; font-weight:100;color:#00000;z-index: 16;line-height:25px;" ><a href="#" onclick="showSec('signin');">Sign-In&nbsp;&nbsp;&nbsp;&nbsp;|</a></div>
+<div id="userlbllout" style="position:absolute;left:600px;top:370px;height:25px;width:75px;text-align:right;border:0px solid #ccc;color:#194D75;display:none;font: 12px Fjalla One; font-weight:100;color:#00000;z-index: 16;line-height:25px;" ><a href="#" onclick="eraseCookie('cinfo');location.reload();">Sign-Out&nbsp;&nbsp;&nbsp;&nbsp;|</a></div>
+
+<div id="useracctlbl" style="position:absolute;display:none;left:830px;top:370px; height:25px;width:75px;border:0px solid #ccc;font: 12px Fjalla One; font-weight:100;color:#00000;z-index: 16;line-height:25px;" ><a href="#" onclick="showSec('register');">My Account&nbsp;&nbsp;&nbsp;&nbsp;|</a> </div>
+<div id="cartlbl" style="position:absolute;left:890px;top:370px; height:25px;width:25px;border:0px solid #ccc;font: 12px Fjalla One; font-weight:100;color:#00000;z-index: 16;line-height:25px;" ><a href="#" onclick="cart_proc('get');">Cart</a></div>
+
+
+
+<div id="prods" style="position:absolute;left:0px;top:660px;z-index: 16;">
+
+<? include("includes/screens/all_products_scr.txt"); ?>
+
+<div class="footer" style="position:absolute;left:0px;top:2425px;width:975px;height:195px;z-index: 16;background-color:#1d4d7b;display:block;">
+
+  	  
+	<? include("includes/screens/footer_scr.txt"); ?>
+	
+
+</div>
+
+</div><!--end of products-->
+
+
+<div id="register">
+
+<? include("includes/screens/cust_scr.txt"); ?>
+
+
+</div>
+
+
+
+<div id="cart">
+
+<? include("includes/screens/cart_scr.txt"); ?>
+
+
+</div>
+
+<div id="review_checkout">
+
+<? include("includes/screens/checkout_scr.txt"); ?>
+
+
+</div>
+
+
+</div><!--end of content_container-->
+
+</div><!--end of container-->
+
+
+<div id="messagescr">
+
+<? include("includes/screens/message_scr.txt"); ?>
+
+
+</div>
+
+<div id="signin">
+
+<? include("includes/screens/sign_in_scr.txt"); ?>
+
+
+</div>
+
+<div id="forgotpass">
+
+<? include("includes/screens/forgot_pass_scr.txt"); ?>
+
+
+</div>
+
+
+
+<!--end of products-->
+</form>
+
+
+
+</body>
+</html>
+

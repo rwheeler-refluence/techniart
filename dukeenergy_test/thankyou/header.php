@@ -1,0 +1,4 @@
+<br>
+<br>
+
+<div><table><tr><td width="75%"><img src="pix/logos/Duke-Energy-Progress-Logo-4c.jpg" width="161" height="74"/><img src="pix/pix_fade_vert.gif" alt="" width="1" height="91" border="0" /><a href="http://www.energystar.gov" target="_blank" title="Energy Star web site - TechniArt is an Energy Star Partner"></a><img src="pix/ta.jpg" alt="TechniArt - Marketing the Future"><img src="pix/pix_fade_vert.gif" alt="" height="91" border="0"><a href="http://www.energystar.gov" target="_blank" title="Energy Star web site - TechniArt is an Energy Star Partner"><img src="pix/h_logo_energystar.gif" alt="Energy Star Partner"></a></td><td width="16%" align="right"><b><? echo(date("l F j, Y"));?></b></td></tr></table></div>

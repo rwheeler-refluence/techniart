@@ -1,0 +1,4 @@
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4412970155481896&x_exp_date=003&x_amount=6.25&x_invoice_num=10003600&x_first_name=Victoria&x_last_name=England&x_address=11128+Woodward+Ave+S+&x_city=Seattle&x_state=WA&x_zip=98178
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4412970155481896&x_exp_date=0319&x_amount=6.25&x_invoice_num=10003600&x_first_name=Victoria&x_last_name=England&x_address=11128+Woodward+Ave+S+&x_city=Seattle&x_state=WA&x_zip=98178

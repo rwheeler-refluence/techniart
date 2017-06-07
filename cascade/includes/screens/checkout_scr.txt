@@ -1,0 +1,66 @@
+<div id="reg_content" style="position:absolute;width:700px;height:5px;left:0px;top:0px;background-color:#ffffff;border:0px solid #ccc;z-index:14;padding-left:50px;padding-top:10px;">
+
+	<p style="font: 22px Fjalla One; font-weight:regular;color:#86b800;padding-top:3px;">Review and Place Order</p>
+    <br />
+    <!--<p style="font: 14px Archivo Narrow;font-weight:regular;color:#1d4d7b;padding-top:5px;">Details</p>-->
+	
+
+</div>
+
+
+<div id="reg_content" style="position:absolute;width:700px;height:5px;left:0px;top:0px;background-color:#ffffff;border:0px solid #ccc;z-index:14;padding-left:50px;padding-top:10px;">
+
+	<p style="font: 22px Fjalla One; font-weight:regular;color:#86b800;padding-top:3px;">Review and Place Order</p>
+    <br />
+    <!--<p style="font: 16px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:5px;">Details</p>-->
+	
+
+</div>
+
+<div id="checkout_cust_details" style="position:absolute;left:50px;top:60px; height:100px;text-align:center;padding-top: 4px;width:650px;font: 20px Fjalla One; font-weight:regular;color:#000000;" >
+</div>
+
+<div style="position:absolute;left:530px;top:55px;width:300px;z-index: 6;line-height:200%;background-color:#ccc;border: 1px dashed #000000;">
+
+<table>  
+
+  <TR width="94%">
+      <td width="35%" align="left" class="reglbl" valign="middle">&nbsp;Type</TD>
+      <td width="65%" align="left" valign="middle"><div class="styled-select"><select id="Billing_type"><option>Visa</option><option>Mastercard</option></select></div></td>
+      </TR>
+
+  <TR width="94%">
+      <td width="35%" align="left" class="reglbl" valign="middle">&nbsp;Number</TD>
+      <td width="65%" align="left" valign="middle"><input type="text" id="Billing_Number" tabindex="3" onchange="" size="20" MAXLENGTH = 25/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="35%" align="left" class="reglbl" valign="middle">&nbsp;Expires</TD>
+      <td width="65%"align="left" valign="middle"><input type="text" id="Billing_exp" tabindex="4" onchange="" size="7" MAXLENGTH = 7/>&nbsp;mm/yyyy</TD>
+  </TR>
+
+  </table> 
+</div>              
+
+<div style="position:absolute;left:743px;top:187px; height:25px;text-align:center;padding-top: 4px;width:150px;font: 18px Fjalla One; font-weight:regular;color:#000000;" >Qty</div>
+
+
+
+<div id="cart_prods_review" style="position:absolute;left:50px;top:210px;width:820px;border:0px solid #000000;">
+
+<p>test</p>
+		
+</div>
+
+<div id="cancelorder" style="position:absolute;left:550px; height:35px;top:900px;text-align:center;padding-top: 4px;width:125px;font: 22px Fjalla One; font-weight:regular;background-color:#1C4C7A;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="showSec('prods');">Cancel</div>
+<div id="placeorder" style="position:absolute;left:685px;height:35px;top:900px;text-align:center;padding-top: 4px;width:150px;font: 22px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="cc_proc();">Place Order</div>
+
+<div id="footer3" class="footer" style="position:absolute;left:0px;top:1000px;width:975px;height:195px;z-index: 16;background-color:#1d4d7b;display:block;">
+
+  	  
+	<? include("includes/screens/footer_scr.txt"); ?>
+	
+	
+	
+
+</div>

@@ -1,0 +1,2 @@
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4147099485551020&x_exp_date=0520&x_amount=5.3&x_invoice_num=24848009&x_first_name=Tienyong&x_last_name=Hua&x_address=143+159th+Ave+SE+&x_city=Bellevue&x_state=WA&x_zip=98008

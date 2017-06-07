@@ -1,0 +1,10 @@
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 43
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 47
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 43
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 47
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 43
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 47
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 43
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 47
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 43
+[10-Mar-2017 09:22:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/brilliant/store.php on line 47

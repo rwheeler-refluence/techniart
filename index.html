@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>TechniArt</title>
+	<meta name="generator" content="BBEdit 11.0" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/ta.css" type="text/css" />
+	<meta id="amexViewport" name="viewport" content="initial-scale=1">
+</head>
+<body>
+	<div class="header clearfix">
+		<div class="menu">MENU</div>
+		<a href="index.html" class="taLogo"><img src="nav/TechniartLogo.svg" style="width: 100%"></a>
+		<div class="topNavLinks clearfix navState">
+			<a href="support.html" class="topNavLink">Support</a>
+			<a href="about.html" class="topNavLink">About</a>
+			<a href="partners.html" class="topNavLink">Partners</a>
+			<a href="solutions.html" class="topNavLink">Solutions</a>
+            <a href="index.php" class="topNavLink">Store</a>
+		</div>
+	</div><!--header-->
+	
+	<div class="fullWidthBlue">
+		<h1 class="cms-editable" id="pl1">Sales Solutions for Utility Programs</h1>
+		<h3 class="cms-editable" id="pl2">Custom retail engagements for utilities, statewide programs, and implementers.</h3>
+		<a href="solutions.html" class="blueCTA">Discover Our Programs</a>
+		<a href="#start"><img src="nav/downArrow.svg" width="30" style="margin: 30px auto 0 auto;"></a>
+	</div>
+	
+	<div class="homePanels clearfix" id="start">
+		<div class="homePanel homePanelImg">
+			<img src="nav/computer.svg" class="homePanelSVG">
+		</div>
+		<div class="homePanel homePanelTextRight cms-editable" id="pl3">
+			<h2>Custom Etail Solutions</h2>
+			TechniArt’s limited time offers, monthly campaigns and custom online stores drive sales while growing and educating your digital audience.
+			<a href="solutions.html" class="learnMore">LEARN MORE</a>
+		</div>
+	</div>
+
+	<div class="homePanels homePanelOrange clearfix">
+			<div class="homePanel homePanelTextLeft cms-editable" id="pl4">
+			<h2>Turnkey Retail Engagements</h2>
+			Our pop-up retail stores connect with your customer at work, at events, or at the mall to create unique educational, retail and program sign up opportunities.
+			<a href="solutions.html#p" class="learnMore">LEARN MORE</a>
+			</div>
+			<img src="nav/turnkey.jpg" class="homePanelJPG">
+	</div>
+
+	<div class="homePanels clearfix">
+		<div class="homePanel">
+			<img src="nav/stuff-in-box.svg" class="homePanelSVG stuffInBox">
+		</div>
+		<div class="homePanel homePanelTextRight cms-editable" id="pl5">
+			<h2>Driving participation in utility programs</h2>
+			We educate consumers and increase participation in retail programs through school fundraisers, efficiency kits, direct install and cross-sell marketing campaigns.
+			<a href="solutions.html#u" class="learnMore">LEARN MORE</a>
+		</div>
+	</div>
+
+	<div class="homePanels homePanelBlue clearfix">
+			<div class="homePanel homePanelTextLeft cms-editable" id="pl6">
+			<h2>Commercial & Business Solutions</h2>
+			Quality products, engaging sales portals, fulfillment platforms for your commercial, small, and medium business programs.
+			<a href="solutions.html#c" class="learnMore">LEARN MORE</a>
+			</div>
+			<img src="nav/commercial.jpg" class="homePanelJPG">
+	</div>
+
+	<div class="fullWidthWhite">
+		<h4>Partnerships built on trust</h4>
+		<div class="homeLogos clearfix">
+			<div class="homeLogo"><img src="nav/energyStar.gif"></div>
+			<div class="homeLogo"><img src="nav/njce.gif"></div>
+			<div class="homeLogo"><img src="nav/sdge.gif"></div>
+			<div class="homeLogo"><img src="nav/pse.gif"></div>
+		</div>
+		We deploy programs for top utilities, statewide programs, and implementors. <a href="partners.html" class="learnMore">Learn More</a>
+	</div>
+	
+	<div class="connectFooter clearfix">
+		<div class="connectColLeft">
+			<div class="connectText">Connect with us to find out how we can support your program and marketing initiatives. <a href="support.html">Contact&nbsp;Us</a></div>
+		</div>
+		<div class="connectColRight">
+			<div class="connectText">Have questions about your products? Contact a customer support person. <a href="support.html">Contact&nbsp;Us</a></div>
+		</div>
+	</div>
+	
+	<div class="fullWidthBlue clearfix">
+		<div class="footerLeft">
+			<div class="copyright">&copy; 2015, TechniArt, Inc. All rights reserved.</div>
+			<img src="nav/energyStarFooter.gif" width="75" height="75" style="border: 2px solid #fff; display: inline-block; margin-right: 30px;">
+			<img src="nav/waterSense.gif" width="75" height="75" style="display: inline-block;">
+		</div>
+		<div class="footerRight">
+			<a href="about.html" class="footerLink">About Us</a>
+			<a href="support.html" class="footerLink">Support</a>
+		</div>
+	</div>
+<script>
+	$(".menu").on("click",function() {
+		$(".topNavLinks").toggleClass("navState").toggleClass("showNav");
+	});
+	//http://css-tricks.com/snippets/jquery/smooth-scrolling/
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+		if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+		  var target = $(this.hash);
+		  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+		  if (target.length) {
+			$('html,body').animate({
+			  scrollTop: target.offset().top - $('.header').height()  // to accommodate for height of fixed header
+			}, 500);
+		
+			return false;
+
+		  }
+		}
+	 })
+	 })
+</script>
+</body>
+</html>

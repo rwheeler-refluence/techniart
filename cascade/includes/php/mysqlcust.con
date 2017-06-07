@@ -1,0 +1,14 @@
+<?php
+ 
+
+	$server="sql5c40a.carrierzone.com:3306";
+	$username="garycardil610729";
+	$password="!Wizard2450";
+
+	$sqlconnect=mysql_connect($server, $username, $password);
+	
+if (!sqlconnect) {
+  die('Could not connect: ' . mysql_error());
+}
+
+?>

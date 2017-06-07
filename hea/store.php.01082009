@@ -1,0 +1,160 @@
+<? include("database.php");?>
+<? include("jersey.php");?>
+<?
+$action=$_GET['action'];
+$keyword=$_GET['keyword'];
+?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<title>TechniArt - Marketing The Future</title>
+
+<meta name="robots" content="index,follow" />
+<meta name="author" content="TechniArt" />
+<meta name="publisher" content="techniart.com" />
+<meta name="copyright" content="Copyright 2008 TechniArt. All Rights Reserved" />
+<meta http-equiv="content-language" content="EN" />
+<meta name="content-language" content="EN" />
+<meta name="rating" content="All" />
+<meta name="audience" content="General" />
+<meta name="distribution" content="Global" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<link rel="STYLESHEET" type="text/css" href="stylesheet.css">
+<script type="text/javascript" language="JavaScript1.2" src="script/stmenu.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+
+<script type="text/javascript">
+function loadContent(elementSelector, sourceUrl) {
+	$(""+elementSelector+"").load(sourceUrl);
+	
+}
+</script>
+</head>
+
+<BODY>
+<div align="center">
+<!-- ------------------------------begin header------------------------------ -->
+<? include("header.php"); ?>
+<!-- ------------------------------end header------------------------------ -->
+
+<!-- ------------------------------begin body------------------------------ -->
+<table width="906" border="0" cellspacing="0" cellpadding="0" align="center"><tr valign="top">
+<td width="906" class="title_bkg"><div id="title_spacer" align="left"><span class="title_main">Store</span></div></td>
+</tr></table>
+
+<table width="906" border="0" cellspacing="0" cellpadding="0" align="center" class="bkg_body-main"><tr valign="top">
+<td width="1" bgcolor="#c8e1ea"><img src="pix/pix_c8e1ea.gif" alt="" width="1" height="300" border="0"></td>
+<td width="904"><div id="main_content_ip" align="left">
+
+<? include("zip.php");?>
+<?
+if($action=='search'){
+	$sqlp="select * from tblProducts where (category like '%$keyword%' || productName LIKE '%$keyword%' || modelNumber LIKE '%$keyword%') && productPub='Yes' order by modelNumber asc";
+}else{
+	$sqlp="select * from tblProducts where category='$cat' && productPub='Yes' order by modelNumber asc";
+}
+$resultp=db_query($sqlp);
+$countp=mysql_num_rows($resultp);
+if($countp==1){
+	$label="result";
+}else{
+	$label="results";
+}
+$i=1;
+if($action=='search'){
+	print("<span class=\"product_title\"><b>You searched for the term: ".$keyword."</b><br>");
+	print("".$countp." results found</span><br><br>");
+}
+?>
+<!-- ------------------------------begin products - row <? echo($i);?>------------------------------ -->
+<table width="853" border="0" cellspacing="0" cellpadding="0"><tr valign="top">
+<?
+while($rowp=mysql_fetch_array($resultp)){
+	$productID=$rowp['productID'];
+	$productName=$rowp['productName'];
+	if($_SESSION['zip']){
+		$price=$rowp['MSRP'];
+	}else{
+		$price=$rowp['disct_price'];
+	}
+	$imageLoc=$rowp['imageLoc'];
+	$modelNumber=$rowp['modelNumber'];
+			$loc=$rootDir."pix/products/".$imageLoc;
+			if(file_exists($loc)){
+			list($width, $height, $type, $attr) = getimagesize($loc);
+				if($width>61){
+					$newwidth_divisor=61/$width;
+					$height=$height*$newwidth_divisor;
+					$width=$width*$newwidth_divisor;
+				}else{
+					$width=$width;
+					$height=$height;
+				}
+			}
+
+?>
+<td width="275">
+<table width="275" border="0" cellspacing="0" cellpadding="0"><tr valign="top">
+<td width="71"><a href="store-detail.php?ID=<? echo($productID);?>"><img src="pix/products/<? echo($imageLoc);?>" alt="<? echo($productName);?>" width="<? echo($width);?>" height="<? echo($height);?>" border="0" class="img_stroke"></a></td>
+<td width="204"><span class="product_title"><? echo($productName);?></span><br>
+<span class="product_number">#<? echo($modelNumber);?></span><br><br>
+
+<span class="product_price">$<? echo($price);?></span><br>
+<? if(!$_SESSION['noshop']){?>
+<a href="store-detail.php?ID=<? echo($productID);?>"><img src="pix/b_buy-now_sm.gif" alt="Buy now" width="55" height="19" border="0"></a><br>
+<?}?>
+<a href="store-detail.php?ID=<? echo($productID);?>"><img src="pix/b_more-info_sm.gif" alt="Learn more" width="55" height="19" border="0"></a></td>
+</tr></table>
+
+</td>
+<? if($i>1 && $i%2!==0){?>
+<td width="14"><img src="pix/pix_trans.gif" alt="" width="14" height="1" border="0"></td>
+<?}?>
+<? if($i>1 && $i%3==0){?>
+<?$j=$i+1;?>
+</tr></table><br><br>
+<!-- ------------------------------end products - row <? echo($i);?>------------------------------ -->
+
+<!-- ------------------------------begin products - row <? echo($j);?>------------------------------ -->
+<table width="853" border="0" cellspacing="0" cellpadding="0"><tr valign="top">
+<?}?>
+<?$i++;?>
+<?}?>
+
+</td>
+</tr></table><br><br>
+<!-- ------------------------------end products - row 3------------------------------ -->
+
+</div></td>
+<td width="1" bgcolor="#c8e1ea"><img src="pix/pix_c8e1ea.gif" alt="" width="1" height="1" border="0"></td>
+</tr></table>
+
+</div></td>
+</tr></table>
+
+<table width="906" border="0" cellspacing="0" cellpadding="0" align="center"><tr valign="top">
+<td width="906"><img src="pix/g_body_bot.gif" alt="" width="906" height="12" border="0"></td>
+</tr></table>
+<!-- ------------------------------end body------------------------------ -->
+
+<!-- ------------------------------begin footer------------------------------ -->
+<? include("footer.php"); ?>
+<!-- ------------------------------end footer------------------------------ -->
+</div>
+</body>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7592070-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+

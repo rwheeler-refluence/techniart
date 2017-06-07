@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Contact TechniArt</title>
+	<meta name="generator" content="BBEdit 11.0" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/ta.css" type="text/css" />
+	<meta id="amexViewport" name="viewport" content="initial-scale=1">
+</head>
+<body>
+	<div class="header clearfix">
+		<div class="menu">MENU</div>
+		<a href="index.html" class="taLogo"><img src="nav/TechniartLogo.svg" style="width: 100%"></a>
+		<div class="topNavLinks clearfix navState">
+			<a href="support.html" class="topNavLink topNavLinkOn">Support</a>
+			<a href="about.html" class="topNavLink">About</a>
+			<a href="partners.html" class="topNavLink">Partners</a>
+			<a href="solutions.html" class="topNavLink">Solutions</a>
+            <a href="index.php" class="topNavLink">Store</a>
+		</div>
+	</div><!--header-->
+	
+	<div class="fullWidthLightBlue">
+		<h1>Thank you for contacting TechniArt. Your business is important to us.</h1>
+	</div>
+	
+	<div class="fullWidthWhite" style="text-align: left;">
+		<div class="twoCols clearfix">
+			<div class="twoColLeft">
+				<div class="contactHead">Customer Service Contact Form</div>
+				<div class="contactSubhead">For any customer service inquiries, please use the contact information or form below.</div>
+				<form>
+				<label>Name</label>
+				<input type="text">
+				<label>Email Address</label>
+				<input type="text">
+				<label>Daytime Telephone</label>
+				<input type="text">
+				<label>Issue Type</label>
+				<div class="button custom-select">
+					<select>
+						<option value=""></option>
+						<option value="Product Support">Product Support</option>
+						<option value="General Question">General Question</option>
+					</select>
+				</div>
+				<label>Special Instructions (Optional)</label>
+				<textarea></textarea>
+				<input type="submit" value="Send Your Inquiry">
+				</form>
+			</div>
+			<div class="twoColRight">
+				<div class="supportPhone">
+					<img src="nav/phone.svg" width="70">
+					TechniArt’s customer service is available 9 a.m. – 5 p.m. Eastern Time. Call us 860-693-2003.
+				</div>
+			</div>
+		</div><!--twoCols-->
+		
+		<div class="faqBox">
+				<div class="contactHead">Common Questions</div>
+				<div class="contactSubhead">Below are quick answers to our most common questions. Or you can call us at 860-693-2003. Our support team is available 9 a.m. — 5 p.m. Eastern Time.</div>
+				<div class="faqs cms-editable" id="pl1">
+<div class="faqQ">Can I exchange my old bulbs for new ones?</div>
+<div class="faqA"><strong>No problem, we can replace your damaged bulbs.</strong><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sem rutrum, sodales lacus sit amet, ornare tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut interdum nibh sit amet nulla porttitor rhoncus. Suspendisse luctus purus nec dui efficitur, ut dapibus tellus feugiat.</div>
+<div class="faqQ">Where can I return a broken bulb shipped to me?</div>
+<div class="faqA"><strong>No problem, we can replace your damaged bulbs.</strong><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sem rutrum, sodales lacus sit amet, ornare tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut interdum nibh sit amet nulla porttitor rhoncus. Suspendisse luctus purus nec dui efficitur, ut dapibus tellus feugiat.</div>
+<div class="faqQ">Where can I return a broken bulb shipped to me?</div>
+<div class="faqA"><strong>No problem, we can replace your damaged bulbs.</strong><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sem rutrum, sodales lacus sit amet, ornare tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut interdum nibh sit amet nulla porttitor rhoncus. Suspendisse luctus purus nec dui efficitur, ut dapibus tellus feugiat.</div>
+</div>
+		</div><!--faq-->
+		
+		<div class="faqBox">
+				<div class="contactHead">Warranty and Return Policies</div>
+				<div class="contactSubhead">Looking for your product warranties or our return policies?</div>
+				<div class="policies clearfix">
+					<a href="" class="policy clearfix"><img src="nav/pdf.svg" width="45">Warranty Policy</a>
+					<a href="" class="policy clearfix"><img src="nav/pdf.svg" width="45">Privacy Policy</a>
+					<a href="" class="policy clearfix"><img src="nav/pdf.svg" width="45">Return Policy</a>
+				</div>
+		</div><!--faq-->
+		
+	</div>
+	
+
+	
+	<div class="fullWidthBlue clearfix">
+		<div class="footerLeft">
+			<div class="copyright">&copy; 2015, TechniArt, Inc. All rights reserved.</div>
+			<img src="nav/energyStarFooter.gif" width="75" height="75" style="border: 2px solid #fff; display: inline-block; margin-right: 30px;">
+			<img src="nav/waterSense.gif" width="75" height="75" style="display: inline-block;">
+		</div>
+		<div class="footerRight">
+			<a href="about.html" class="footerLink">About Us</a>
+			<a href="support.html" class="footerLink">Support</a>
+		</div>
+	</div>
+<script>
+	$(".menu").on("click",function() {
+		$(".topNavLinks").toggleClass("navState").toggleClass("showNav");
+	});
+	$(".faqQ").on("click",function() {
+		$(this).next().toggle();
+		$(this).toggleClass("faqQopen");
+	});
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+stm_bm(["menu763f",700,"pix/","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","",0,0,1,2,"default","hand","script/"],this);
+stm_bp("p0",[0,4,0,0,0,0,0,0,100,"",-2,"",-2,50,0,0,"#999999","transparent","",3,0,0,"#000000"]);
+stm_ai("p0i0",[2,"","nav_spacer_lt.gif","nav_spacer_lt.gif",65,62,0,"","_self","","","","",0,0,0,"","",0,0,0,0,1,"#FFFFF7",1,"#B5BED6",1,"","",3,3,0,0,"#FFFFF7","#000000","#000000","#000000","8pt Verdana","8pt Verdana",0,0]);
+stm_aix("p0i1","p0i0",[2,"","nav_about.gif","nav_about_on.gif",113,62,0,"about.php","_self","","About"]);
+stm_aix("p0i2","p0i0",[2,"","nav_store.gif","nav_store_on.gif",114,62,0,"store-discount.php","_self","","Store"]);
+stm_aix("p0i3","p0i0",[2,"","nav_event_schedule.gif","nav_event_schedule_on.gif",214,62,0,"event-schedule.php","_self","","Event Schedule"]);
+stm_aix("p0i4","p0i0",[2,"","nav_lighting_fair.gif","nav_lighting_fair_on.gif",179,62,0,"lighting-fair.php","_self","","Lighting Fair"]);
+stm_aix("p0i5","p0i0",[2,"","nav_fundraiser.gif","nav_fundraiser_on.gif",157,62,0,"http://www.shiningsolutionsfundraiser.com","_self","","Fundraiser"]);
+stm_aix("p0i6","p0i0",[2,"","nav_spacer_rt.gif","nav_spacer_rt.gif",64,62]);
+stm_ep();
+stm_em();

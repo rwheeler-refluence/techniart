@@ -1,0 +1,113 @@
+#store-menu { position: absolute; top:40px; right:50px; }
+#store-menu ul { list-style-type:none; background:transparent; margin:0; padding:0; }
+#store-menu li { float:left; display:inline; list-style-type:none; background:transparent; margin:0; padding:0; }
+#store-menu a { display:block; font-size:13px; font-family:'Fjalla One', sans-serif; padding:0 10px; border-right: 1px solid #1D4D7B; line-height:15px;}
+#store-menu li:last-child a { border-right:0; }
+
+.shop-item { float:left; display:inline; width:300px; position:relative; height:400px; margin-bottom:60px; }
+.shop-item.last { float:right; }
+
+.shop-item img { width:299px; height:192px; margin-bottom:10px; }
+.shop-item h3, .shop-item p { margin:0!important; }
+.shop-item, .shop-item p { font-size:14px!important; line-height:19px!important; }
+.shop-item p { margin-bottom:10px!important; }
+
+#shop-form { position: absolute; bottom:0; right:0; text-align:right; }
+
+input.shop-qty { -moz-border-radius:9px; border-radius:9px; background:#fff; border: 1px solid #aaa; padding:7px 8px; font-size:15px; color:#1D4D7B; font-weight:bold; width:15px; text-align:center; }
+
+input.shop-add { background:#86B800; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:18px; padding:10px 10px 6px; border:0; line-height:18px; text-transform:uppercase; }
+
+
+
+h2 a.shop-add { background:#86B800; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:18px; padding:10px 10px 6px; border:0; line-height:18px; text-transform:uppercase;  float:right;}
+
+#cart-buttons a.shop-add { background:#86B800; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:24px; padding:16px 15px 10px;  border:0; line-height:24px; text-transform:uppercase;  float:right; margin-left:10px;}
+
+.shop-checkout { background:#1D4D7B; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:24px; padding:16px 15px 10px; border:0; line-height:24px; text-transform:uppercase; float:right; margin-bottom:50px; }
+
+#content-right .shop-checkout {  float:none; display:inline-block; margin:28px 0 0; }
+
+a.shop-back { background:#1D4D7B; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:24px; padding:16px 15px 10px; border:0; line-height:24px; text-transform:uppercase; float:right; margin-top:50px; float:left; display:inline; }
+ a.shop-next { background:#86B800; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:24px; padding:16px 15px 10px;  border:0; line-height:24px; text-transform:uppercase;  float:right; margin-left:10px; margin-top:50px; }
+
+.fancybox-skin { text-align:left; font-family: 'Archivo Narrow', sans-serif; font-size:17px; }
+
+.box-padding { padding:15px 0 0 30px; }
+.box-padding h4 { text-transform:none!important; }
+
+.fancybox-skin label { width:165px; color:#000; display:inline-block; margin-bottom:10px; }
+.fancybox-skin input, .fancybox-skin select { width:485px; display:inline-block; border-radius:2px; -moz-border-radius:2px; background:#fff; border: 1px solid #E1E9F6; color:#1D4E79; padding:8px 7px; margin-bottom:13px; }
+.fancybox-skin input { font-family: 'Archivo Narrow', sans-serif; box-shadow:inset 0 0 5px #E1E9F6;  }
+.fancybox-skin input.noborder{ box-shadow:inset 0 0 0px #E1E9F6!important; border:0!important;   }
+ .fancybox-skin select { width:500px; background:#fff; box-shadow:inset 0 0 5px #E1E9F6;  }
+
+.fancybox-skin .lightbox-submit {  background:#86B800; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:24px; padding:20px 10px 15px; border:0; line-height:25px; text-transform:uppercase; width:110px; float:right; display:inline-block; margin-right:40px; box-shadow:inset 0 0 0px #E1E9F6; margin-top:23px; }
+.fancybox-skin input.lightbox-submit {  background:#86B800; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:24px; padding:20px 10px 15px; border:0; line-height:25px; text-transform:uppercase; width:110px; float:right; display:inline-block; margin-right:40px; }
+
+
+
+
+
+.fancybox-skin #signinform label { width:75px; }
+.fancybox-skin #signinform input { width:230px; margin-top:5px; box-shadow:inset 0 0 5px #E1E9F6; }
+.forgot-password { font-size:13px; line-height:20px; color: #1D4D7B;  }
+.fancybox-skin #signinform input.signin-checkbox { width:15px; margin-right:8px; }
+
+.fancybox-skin #signinform input.lightbox-submit { width:120px; margin-right:50px; margin-top:10px; }
+
+.lightbox-send { margin:20px 0; }
+.lightbox-privacy { line-height:45px; font-family: 'Archivo Narrow', sans-serif; font-size:16px; }
+
+.fancybox-skin h3 { padding:0; background:#86B800; margin:0; color:#fff; text-align:left; font-size:30px; line-height:38px; padding:12px 0 5px 14px!important }
+
+.fancybox-skin h4 { 
+text-transform: uppercase;
+color: #1D4D7B;
+font-size: 18px;
+font-weight: 700;
+font-family: verdana, sans-serif;
+font-family: 'Fjalla One', sans-serif;
+line-height: 28px;
+font-weight: 400;
+}
+
+.fancybox-skin #signin  h3  { font-size:16px; line-height:18px; padding-top:9!important; padding-bottom:9px!important; }
+
+#table-cart { width:100%; }
+#table-cart tr { border-bottom: 1px solid #C8DDEE; }
+#table-cart tr.tr-last { border-bottom: 0px solid #C8DDEE; }
+#table-cart th { color: #1D4D7B; font-family: 'Fjalla One', sans-serif;font-weight:normal!important; text-align:left; }
+#table-cart th.cnt { text-align:center;  }
+#table-cart td { padding:10px 0; }
+#table-cart td.td-qty { text-align:center; vertical-align:middle; color: #1D4D7B; font-family: 'Fjalla One', sans-serif; }
+#table-cart td.td-shipping { text-align:right; }
+#table-cart td.td-code label { color: #1D4D7B; font-family: 'Fjalla One', sans-serif; font-size:13px; width:auto; display:inline; }
+#table-cart td.td-code input { width:80px; display:inline; color: #1D4D7B; font-family: 'Fjalla One', sans-serif; font-size:15px; border: 1px solid #C8DDEE; border-radius:3px; -moz-border-radius:3px; margin-left:5px; padding:3px;}
+#table-cart h3, #table-cart p { margin:0;  }
+a.cart-delete { font-size:13px; }
+
+#table-cart p.shipping-total { font-family: 'Fjalla One', sans-serif; font-size:13px; text-align:right; color: #1D4D7B; font-size:25px; line-height:33px;}
+#table-cart p.cart-total  { font-family: 'Fjalla One', sans-serif; font-size:13px; text-align:right; color: #1D4D7B; font-size:31px; line-height:43px;}
+#table-cart p.cart-free { font-family: 'Fjalla One', sans-serif; font-size:13px; text-align:right; color: #1D4D7B; line-height:11px; }
+#table-cart p.cart-free input{ display:inline; line-height:20px; }
+
+#form-checkout h3 { margin-top:15px; }
+#form-checkout label { width:165px; color:#000; display:inline-block; margin-bottom:10px; font-family: 'Archivo Narrow', sans-serif; font-size:18px; line-height:20px;}
+#form-checkout input, #form-checkout select { width:650px; display:inline-block; border-radius:2px; -moz-border-radius:2px; background:#fff; border: 1px solid #E1E9F6; color:#1D4E79; padding:8px 7px; margin-bottom:10px; box-shadow:inset 0 0 5px #E1E9F6; }
+#form-checkout select { width:665px; }
+#form-checkout input { font-family: 'Archivo Narrow', sans-serif  }
+#form-checkout select.select-month { width:328px; }
+#form-checkout select.select-year { width:328px; margin-left:5px;}
+
+
+.order-review-box { float:left; display:inline; width:30.5%; margin-right:1%; padding-left:2%; border-left:1px solid #C8DDEE; }
+.order-review-box:first-child { border-left:0; padding-left:0; }
+.order-review-box p, .order-review-box h3 { margin:0; }
+.order-review-box a.cart-delete { font-size:15px; font-family: 'Archivo Narrow', sans-serif }
+
+#footer { padding-top:45px\9!important; }
+
+ input.noborder{ box-shadow:inset 0 0 0px #E1E9F6!important; border:0!important;   }
+ 
+ #form-checkout input.register-submit {  background:#86B800; color:#fff; text-align:center; font-family: 'Fjalla One', sans-serif; -moz-border-radius:9px; border-radius:9px; font-size:24px; padding:20px 14px 15px; border:0; line-height:25px; text-transform:uppercase; width:110px; float:right; display:inline-block; margin-right:37px; }

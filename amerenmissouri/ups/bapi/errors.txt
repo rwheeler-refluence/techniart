@@ -1,0 +1,70 @@
+-----------------------------------------------------------------------------------
+CUSTOM IRELEASE
+-----------------------------------------------------------------------------------
+
+200xx
+
+20000 - OK
+20001 - Invalid login
+20002 - Account problem
+20003 - No username
+20004 - No email
+20005 - Email exists
+20006 - Key exists
+20007 - Email send failed
+
+
+MISCELANEOUS
+
+-----------------------------------------------------------------------------------
+DATABASE ERRORS
+-----------------------------------------------------------------------------------
+100xx
+
+10001 - Connect fail		- FATAL
+10002 - Select fail			- FATAL
+10003 - Query fail			- WARNING
+
+-----------------------------------------------------------------------------------
+DATA FORMAT AND TYPE ERRORS
+-----------------------------------------------------------------------------------
+110xx
+
+11001 - Type has been disabled		- FATAL
+11002 - Cannot get field description		- FATAL
+11003 - Attribute disabled			- FATAL
+11004 - Type not found
+11005 - Duplicate attribute ( when adding )
+
+
+-----------------------------------------------------------------------------------
+SECURITY ERRORS
+-----------------------------------------------------------------------------------
+120xx
+
+12001 - record fields check failed (login)	- FATAL
+12002 - check by fields check failed (login)	- FATAL
+
+-----------------------------------------------------------------------------------
+LOGIN
+-----------------------------------------------------------------------------------
+130xx
+
+13001 - no check by field(s) supplied at login	- FATAL
+13002 - no record field(s) supplied at login	- FATAL
+13003 - no processor supplied		- FATAL
+13004 - no result true supplied		- FATAL
+13005 - no result false supplied		- FATAL
+
+-----------------------------------------------------------------------------------
+REGISTER
+-----------------------------------------------------------------------------------
+140xx
+
+14001 - no check by field(s) supplied at login	- FATAL
+14002 - no record field(s) supplied at login	- FATAL
+14003 - no processor supplied		- FATAL
+14004 - no result true supplied		- FATAL
+14005 - no result false supplied		- FATAL
+
+

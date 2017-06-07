@@ -1,0 +1,37 @@
+[12-Sep-2016 20:04:44 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:04:45 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:04:45 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:04:45 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:04:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:04:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED8R20D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:04:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:04:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:05:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED13A21DOD27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:05:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:05:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:05:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store.php on line 51
+[12-Sep-2016 20:05:42 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store-cat.php on line 152
+[12-Sep-2016 20:05:42 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED13A21DOD27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store-cat.php on line 152
+[12-Sep-2016 20:05:42 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED18A21DOD27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store-cat.php on line 152
+[12-Sep-2016 20:05:42 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store-cat.php on line 152
+[12-Sep-2016 20:05:43 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/scpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/breeze/store-cat.php on line 152
+[22-Sep-2016 12:05:25 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/breeze/cart.php on line 31
+[22-Sep-2016 12:05:31 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/breeze/orderform.php on line 353
+[19-Oct-2016 19:20:59 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/breeze/cart.php on line 31

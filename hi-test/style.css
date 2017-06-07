@@ -1,0 +1,24 @@
+dd#monitorDef{ top: 65px; left: 114px; }
+dd#monitorDef a{ position: absolute; width: 73px; height: 69px; text-decoration: none; }
+dd#monitorDef a span{ display: none; }
+dd#monitorDef a:hover{ 
+position: absolute; 
+background: transparent url(760x340_jan_entry.jpg) -109px -317px 
+no-repeat; 
+top: -10px; 
+left: -5px; }
+
+dd#monitorDef a:hover span{
+ display: block;
+ text-indent: 0;
+ vertical-align: top;
+ color: #000;
+ background-color: #F4F4F4;
+ font-weight: bold;
+ position: absolute;
+ border: 1px solid #BCBCBC;
+ bottom: 100%;
+ margin: 0;
+ padding: 5px;
+ width: 250%;
+}

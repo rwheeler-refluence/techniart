@@ -1,0 +1,629 @@
+[12-Sep-2016 19:38:46 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:38:47 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:38:47 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:38:47 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:40 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:40 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:41 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:41 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:44 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:45 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:45 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:40:45 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/fcp/store.php on line 62
+[12-Sep-2016 19:55:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[12-Sep-2016 19:56:23 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[12-Sep-2016 19:56:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[12-Sep-2016 19:58:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[12-Sep-2016 19:58:07 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[22-Sep-2016 12:09:22 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Sep-2016 12:09:27 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[23-Sep-2016 22:33:22 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:33:22 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:33:23 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:33:23 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:33:50 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:33:50 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:33:50 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:33:50 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:34 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:34 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:34 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:34 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:43 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED13A21DOD27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:34:43 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED8R20D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:34:43 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:34:43 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:34:50 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:51 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED13A21DOD27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:51 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED18A21DOD27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:51 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:34:51 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:35:33 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:35:33 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/453431.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:35:33 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:35:33 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[23-Sep-2016 22:35:38 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:35:38 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:35:38 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:35:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:35:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:35:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:35:39 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:49 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:49 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:49 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:36:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:37:00 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:37:00 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:37:00 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:37:00 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:37:00 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[23-Sep-2016 22:37:00 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:11 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:05:11 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED8R20D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:05:11 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:05:11 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:05:20 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:20 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:20 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:20 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:20 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:21 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:21 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:55 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:55 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:55 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:55 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:55 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:55 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:05:55 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:25 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:25 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:25 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:25 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:25 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:25 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:25 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:06:59 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:57 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:57 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:57 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:57 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:57 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:57 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:07:57 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[24-Sep-2016 17:08:18 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:08:18 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:08:18 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:08:18 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:08:35 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:08:35 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:08:35 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[24-Sep-2016 17:08:36 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[19-Oct-2016 12:33:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:05:22 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:08:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:08:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:10:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:10:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:11:43 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[20-Oct-2016 15:16:59 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[20-Oct-2016 15:17:01 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[20-Oct-2016 15:17:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 104
+[20-Oct-2016 15:17:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 106
+[20-Oct-2016 15:21:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:21:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[20-Oct-2016 15:21:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[20-Oct-2016 15:21:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:22:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[20-Oct-2016 15:22:36 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[20-Oct-2016 15:23:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:23:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[20-Oct-2016 15:23:43 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[20-Oct-2016 15:24:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:25:38 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[20-Oct-2016 15:26:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:36:14 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:46:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:53:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 15:55:14 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[20-Oct-2016 15:57:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 16:09:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 16:10:03 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[20-Oct-2016 16:14:45 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[20-Oct-2016 16:14:47 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[20-Oct-2016 16:14:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 104
+[20-Oct-2016 16:14:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 106
+[20-Oct-2016 16:42:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 17:23:22 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 17:24:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 17:25:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[20-Oct-2016 17:25:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[20-Oct-2016 17:26:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[20-Oct-2016 17:26:49 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[20-Oct-2016 17:27:15 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[20-Oct-2016 17:36:21 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[20-Oct-2016 17:36:23 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[20-Oct-2016 17:36:23 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 104
+[20-Oct-2016 17:36:23 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 106
+[20-Oct-2016 18:03:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 18:03:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[20-Oct-2016 18:03:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[20-Oct-2016 18:04:06 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[20-Oct-2016 18:37:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 19:24:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 21:03:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 21:26:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 21:44:45 America/Denver] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'sqlc40c.carrierzone.com' (4) in /home/techniar/public_html/fcp/database.php on line 28
+[20-Oct-2016 21:44:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/header.php on line 13
+[20-Oct-2016 21:44:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/zip.php on line 15
+[20-Oct-2016 21:44:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[20-Oct-2016 21:44:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 139
+[20-Oct-2016 21:48:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 21:49:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 21:49:56 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:49:56 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:07 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED13A21DOD27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:17 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:17 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED18A21DOD27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:27 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:27 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:37 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:37 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:49 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/453431.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:50:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:51:01 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/fcp/store-cat.php on line 153
+[20-Oct-2016 21:54:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Oct-2016 22:12:20 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:12:20 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:12:30 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:12:30 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:12:41 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:12:41 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:12:51 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:12:51 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:28 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:28 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:38 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:38 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED8R20D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:48 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:58 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[20-Oct-2016 22:13:58 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/fcp/store.php on line 52
+[21-Oct-2016 00:32:25 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 00:33:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[21-Oct-2016 00:33:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[21-Oct-2016 00:35:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[21-Oct-2016 00:35:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[21-Oct-2016 04:33:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 06:49:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 06:51:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[21-Oct-2016 06:51:16 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[21-Oct-2016 07:34:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 07:46:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 07:46:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[21-Oct-2016 07:46:29 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[21-Oct-2016 08:55:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 09:21:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 09:23:24 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[21-Oct-2016 09:26:17 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[21-Oct-2016 09:26:18 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[21-Oct-2016 09:26:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 104
+[21-Oct-2016 09:26:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 106
+[21-Oct-2016 10:50:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 13:29:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 13:30:31 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[21-Oct-2016 13:35:22 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[21-Oct-2016 13:35:24 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[21-Oct-2016 13:35:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 104
+[21-Oct-2016 13:35:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 106
+[21-Oct-2016 19:13:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 19:14:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 19:17:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 19:18:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Oct-2016 19:19:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Oct-2016 19:39:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Oct-2016 19:40:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[23-Oct-2016 12:15:50 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 01:18:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[25-Oct-2016 01:18:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 01:18:59 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 01:19:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 01:19:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 01:19:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 07:39:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[25-Oct-2016 14:23:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[25-Oct-2016 14:24:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[25-Oct-2016 14:24:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 14:24:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 14:25:00 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 14:25:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 14:25:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[25-Oct-2016 22:08:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[26-Oct-2016 00:11:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[26-Oct-2016 00:11:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[26-Oct-2016 00:12:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[26-Oct-2016 00:13:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[26-Oct-2016 00:13:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[26-Oct-2016 00:13:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[26-Oct-2016 00:13:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[26-Oct-2016 00:13:40 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[26-Oct-2016 19:12:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[26-Oct-2016 19:12:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[26-Oct-2016 19:12:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[26-Oct-2016 19:12:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[27-Oct-2016 14:00:25 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[28-Oct-2016 10:55:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[28-Oct-2016 12:27:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[28-Oct-2016 12:44:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[28-Oct-2016 14:43:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[28-Oct-2016 14:44:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[28-Oct-2016 14:45:16 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[28-Oct-2016 14:49:56 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[28-Oct-2016 14:49:58 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[28-Oct-2016 14:49:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 104
+[28-Oct-2016 14:49:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 106
+[28-Oct-2016 16:10:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[28-Oct-2016 20:45:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[28-Oct-2016 21:09:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 08:51:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 09:08:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 10:15:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 10:23:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 11:49:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 18:39:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 19:45:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[29-Oct-2016 20:05:17 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 02:58:25 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Oct-2016 05:41:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Oct-2016 09:47:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Oct-2016 11:55:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Oct-2016 13:36:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Oct-2016 13:36:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[30-Oct-2016 13:37:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 13:37:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 13:38:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 13:38:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 13:38:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 13:38:23 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 17:31:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Oct-2016 17:32:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 17:33:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 17:33:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 18:12:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Oct-2016 18:14:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 18:14:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 18:14:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Oct-2016 18:15:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[31-Oct-2016 00:46:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[31-Oct-2016 00:47:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[31-Oct-2016 00:48:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[31-Oct-2016 00:49:25 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[31-Oct-2016 00:49:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[31-Oct-2016 08:14:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[31-Oct-2016 08:38:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[31-Oct-2016 11:35:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[31-Oct-2016 11:54:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[31-Oct-2016 13:31:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[31-Oct-2016 14:48:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[01-Nov-2016 02:23:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[02-Nov-2016 12:35:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[04-Nov-2016 09:26:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[20-Nov-2016 18:56:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[20-Nov-2016 18:58:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Nov-2016 18:58:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Nov-2016 18:58:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 09:00:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 09:02:17 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 09:02:30 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[22-Nov-2016 09:04:14 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 09:04:26 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[22-Nov-2016 12:28:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 12:29:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 12:30:15 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[22-Nov-2016 12:34:57 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[22-Nov-2016 12:34:57 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[22-Nov-2016 12:35:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 12:37:10 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Nov-2016 12:37:20 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[22-Nov-2016 12:39:31 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 146
+[22-Nov-2016 12:39:33 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/fcp/phpauthnet_aim.php on line 167
+[22-Nov-2016 12:39:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 104
+[22-Nov-2016 12:39:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/process.php on line 106
+[05-Dec-2016 16:18:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[22-Dec-2016 18:34:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:37:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:37:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[22-Dec-2016 18:37:52 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[22-Dec-2016 18:38:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:38:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[22-Dec-2016 18:38:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[22-Dec-2016 18:41:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:41:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[22-Dec-2016 18:41:20 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[22-Dec-2016 18:42:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:42:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[22-Dec-2016 18:42:22 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[22-Dec-2016 18:42:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[22-Dec-2016 18:42:51 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[22-Dec-2016 18:43:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:43:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:44:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:44:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:45:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:45:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:45:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[22-Dec-2016 18:45:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 7
+[22-Dec-2016 18:45:51 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/check-code.php on line 11
+[22-Dec-2016 18:46:46 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/fcp/orderform.php on line 354
+[24-Dec-2016 14:14:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[28-Dec-2016 01:28:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[28-Dec-2016 01:28:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[28-Dec-2016 01:28:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[28-Dec-2016 01:28:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[28-Dec-2016 01:28:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[30-Dec-2016 22:15:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[10-Jan-2017 07:16:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[10-Jan-2017 07:16:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[10-Jan-2017 07:16:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[10-Jan-2017 07:16:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[16-Jan-2017 14:28:12 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[16-Jan-2017 14:28:12 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[16-Jan-2017 14:28:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[16-Jan-2017 14:28:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[21-Jan-2017 04:41:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[21-Jan-2017 04:44:26 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Jan-2017 04:44:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Jan-2017 04:44:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[21-Jan-2017 04:45:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[26-Jan-2017 16:54:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[26-Jan-2017 16:54:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[26-Jan-2017 16:54:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[26-Jan-2017 16:54:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[26-Jan-2017 16:54:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/changezip1.php on line 9
+[26-Jan-2017 19:10:42 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[26-Jan-2017 19:10:42 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[26-Jan-2017 19:10:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[26-Jan-2017 19:10:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[27-Jan-2017 05:24:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[27-Jan-2017 10:46:59 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[27-Jan-2017 10:47:00 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[27-Jan-2017 10:47:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[27-Jan-2017 10:47:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[27-Jan-2017 22:17:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[27-Jan-2017 22:17:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[27-Jan-2017 22:17:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[27-Jan-2017 22:17:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[30-Jan-2017 15:47:37 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[30-Jan-2017 15:48:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Jan-2017 15:48:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[30-Jan-2017 15:49:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[31-Jan-2017 20:40:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[31-Jan-2017 20:40:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[31-Jan-2017 20:40:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[31-Jan-2017 20:40:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[03-Feb-2017 09:24:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[12-Feb-2017 17:00:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[14-Feb-2017 01:38:29 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[14-Feb-2017 01:38:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[14-Feb-2017 01:38:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[14-Feb-2017 01:38:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[14-Feb-2017 04:39:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[14-Feb-2017 04:40:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[20-Feb-2017 11:20:57 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[20-Feb-2017 11:20:57 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[20-Feb-2017 11:20:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[20-Feb-2017 11:20:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[25-Feb-2017 21:55:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[25-Feb-2017 21:56:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[02-Mar-2017 09:12:02 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LR2727D5.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[02-Mar-2017 09:12:02 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LBA10527D5.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[02-Mar-2017 09:12:02 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LBR41027D5-4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store.php on line 52
+[02-Mar-2017 09:12:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LA191127V2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/fcp/store-cat.php on line 153
+[10-Mar-2017 10:44:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/fcp/cart.php on line 31
+[10-Mar-2017 10:44:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/cart.php on line 179
+[12-Mar-2017 21:44:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[15-Mar-2017 10:32:15 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[16-Mar-2017 06:49:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[18-Mar-2017 05:01:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[19-Mar-2017 00:08:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[19-Mar-2017 10:37:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[31-Mar-2017 20:28:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[02-Apr-2017 06:38:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-detail.php on line 60
+[08-Apr-2017 15:18:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[08-Apr-2017 15:18:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 104
+[08-Apr-2017 15:18:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 106
+[08-Apr-2017 15:18:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[08-Apr-2017 15:19:00 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[08-Apr-2017 15:19:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 104
+[08-Apr-2017 15:19:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 106
+[08-Apr-2017 15:19:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[15-Apr-2017 19:53:08 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[15-Apr-2017 19:53:09 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 88
+[15-Apr-2017 19:53:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 90
+[15-Apr-2017 19:53:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[06-Jun-2017 05:39:09 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[06-Jun-2017 05:39:09 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 104
+[06-Jun-2017 05:39:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 106
+[06-Jun-2017 05:39:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125
+[06-Jun-2017 05:39:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 69
+[06-Jun-2017 05:39:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 104
+[06-Jun-2017 05:39:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 106
+[06-Jun-2017 05:39:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/fcp/store-cat.php on line 125

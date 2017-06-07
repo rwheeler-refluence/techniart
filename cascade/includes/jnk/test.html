@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+<!-- Template: Copyright, ZZEE, 2001-2005. All rights reserved. -->
+<!-- Only registered users of ZZEE Art HTML Listing can use the template
+and javascript code contained in their projects. Any other use is prohibited. -->
+ 
+<head>
+<title>Sic Code Tree</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<style type="text/css"> 
+<!--
+	body
+	{	
+		font-family: "Times New Roman";
+		font-size: 12pt;
+	 	background-color: #ffffff;
+		color: #000000;
+		text-align: left;
+	}
+	ul.zzul {list-style-type:none; display: block;}
+	span.zzspace {left:11px;}
+	a, a:visited {color: #0000ff;}
+	a:hover { color: #ff0000;}
+-->
+</style>
+ 
+<script type="text/javascript"> 
+
+function exp_coll(ind)
+ 
+{
+ s = document.getElementById("sp_" + ind);
+ i = document.getElementById("im_" + ind);
+ if (s.style.display == 'none')
+ {
+   s.style.display = 'block';
+   i.src = "../images/minus.gif";
+ }
+ else if (s.style.display == 'block')
+ {
+   s.style.display = 'none';
+   i.src = "../images/plus.gif";
+ }
+}
+ 
+function exp(ind)
+{
+ s = document.getElementById("sp_" + ind);
+ i = document.getElementById("im_" + ind);
+ if (!(s && i)) return false;
+ s.style.display = 'block';
+ i.src = "../images/minus.gif";
+}
+ 
+function coll(ind)
+{
+ s = document.getElementById("sp_" + ind);
+ i = document.getElementById("im_" + ind);
+ if (!(s && i)) return false;
+ s.style.display = 'none';
+ i.src = "../images/plus.gif";
+}
+ 
+function coll_all()
+{
+ 
+ coll(0);
+ coll(1);
+ coll(1000);
+ coll(1500);
+ coll(2000);
+ coll(4000);
+ coll(5000);
+ coll(5200);
+ coll(6000);
+ coll(7000);
+ coll(9100);
+ coll(9900);
+ 
+}
+ 
+function exp_all()
+{
+ exp(0);
+ exp(1);
+ exp(1000);
+ exp(1500);
+ exp(2000);
+ exp(4000);
+ exp(5000);
+ exp(5200);
+ exp(6000);
+ exp(7000);
+ exp(9100);
+ exp(9900);
+ 
+}
+
+</script>
+</head>
+ 
+<body onload="coll_all();">
+ 
+<a href="javascript:exp_all();"><img src="../images/plus.gif" border='0' alt="toggle" /> Expand all</a>&nbsp;
+<a href="javascript:coll_all();"><img src="../images/minus.gif" border='0' alt="toggle" /> Collapse all</a>
+<br>
+ 
+<ul style="list-style-type:none; margin:0; padding:0;">
+<li><a href="javascript:exp_coll(0);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_0" /></a>
+<a href="javascript:exp_coll(0);">00000000 - 09999999  AGRICULTURE</a>
+<ul class="zzul" id="sp_0" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+
+<ul style="list-style-type:none; margin:0; padding:0;">
+<li><a href="javascript:exp_coll(1);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_1" /></a>
+<a href="javascript:exp_coll(1);">00000000 - 09999999  AGRICULTURE</a>
+<ul class="zzul" id="sp_1" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 11</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 12</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 13</a></li>
+</ul></li>
+
+
+
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+</ul></li>
+    
+<li><a href="javascript:exp_coll(1000);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_1000" /></a>
+
+<a href="javascript:exp_coll(1000);">10000000 - 14999999  MINING</a>
+<ul class="zzul" id="sp_1000" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Mining 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Mining 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Mining 3</a></li>
+</ul></li>
+ 
+  
+<li><a href="javascript:exp_coll(1500);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_1500" /></a>
+<a href="javascript:exp_coll(1500);">15000000 - 17999999  CONSTRUCTION</a>
+<ul class="zzul" id="sp_1500" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">CONSTRUCTION 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">CONSTRUCTION 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">CONSTRUCTION 3</a></li>
+</ul></li>
+    
+<li><a href="javascript:exp_coll(2000);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_2000" /></a>
+
+<a href="javascript:exp_coll(2000);">20000000 - 39999999  MANUFACTURING</a>
+<ul class="zzul" id="sp_2000" style="display:block;">
+  
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+ 
+</ul></li>
+   
+    
+<li><a href="javascript:exp_coll(4000);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_4000" /></a>
+
+<a href="javascript:exp_coll(4000);">40000000 - 49999999  TRANS, COMMUNICATION, ELECT., GAS, AND SANITARY</a>
+<ul class="zzul" id="sp_4000" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+</ul></li>
+ 
+    
+<li><a href="javascript:exp_coll(5000);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_5000" /></a>
+
+<a href="javascript:exp_coll(5000);">50000000 - 51999999  WHOLESALE TRADE</a>
+<ul class="zzul" id="sp_5000" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+ 
+</ul></li>
+
+<li><a href="javascript:exp_coll(5200);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_5200" /></a>
+<a href="javascript:exp_coll(5200);">52000000 - 59999999  RETAIL TRADE</a>
+<ul class="zzul" id="sp_5200" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+   
+</ul></li>
+   
+<li><a href="javascript:exp_coll(6000);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_6000" /></a>
+<a href="javascript:exp_coll(6000);">60000000 - 67999999  FINANCE, INSURANCE & REAL ESTATE</a>
+<ul class="zzul" id="sp_6000" style="display:block;">
+  
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+
+</ul></li>
+ 
+<li><a href="javascript:exp_coll(7000);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_7000" /></a>
+<a href="javascript:exp_coll(7000);">70000000 - 89999999  SERVICES</a>
+<ul class="zzul" id="sp_7000" style="display:block;">
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+ 
+</ul></li>
+ 
+<li><a href="javascript:exp_coll(9100);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_9100" /></a>
+<a href="javascript:exp_coll(9100);">91000000 - 97999999  PUBLIC ADMINISTRATION</a>
+<ul class="zzul" id="sp_9100" style="display:block;">
+    
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 1</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 2</a></li>
+<li><span class="zzspace" />&nbsp;&nbsp;<a href="#">Ag 3</a></li>
+  
+</ul></li>
+
+<li><a href="javascript:exp_coll(9900);"><img src="../images/minus.gif" width="11" height="11" alt="toggle" border="0" id="im_9900" /></a>
+<a href="javascript:exp_coll(9900);">99000000 - 99999999  UNCLASSIFIED INDUSTRIES</a>
+<ul class="zzul" id="sp_9900" style="display:block;">
+</ul></li>
+ 
+ 
+ 
+ 
+  
+    
+
+ 
+</body>
+</html>
+<script language='javascript'>postamble();</script>

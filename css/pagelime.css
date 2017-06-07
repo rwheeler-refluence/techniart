@@ -1,0 +1,63 @@
+/*http://snook.ca/archives/html_and_css/font-size-with-rem*/
+html { -webkit-text-size-adjust: 100%; font-size:62.5%; -webkit-font-smoothing: antialiased;}
+
+.faqQ {
+	color: #098eba;
+	border-top: 1px solid #e7e7e7;
+	font-size: 1.8rem;
+	padding: 1em 0;
+}
+
+.faqA {
+	margin: 0em 0 1em 1em;
+	font-size: 1.6rem;
+	line-height: 1.4em;
+	max-width: 75%;
+}
+
+h1 {
+	font-size: 6rem;
+	font-weight: 400;
+	padding: 153px 0 15px 0;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 4rem;
+	margin-bottom: .5em;
+	line-height: 1.2em;
+}
+
+h3 {
+	font-size: 2.5rem;
+	font-weight: 300;
+	padding-bottom: 5%;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+h4 {
+	font-size: 5rem;
+	font-weight: 400;
+	text-align: center;
+	padding-top: .7em;
+}
+
+h5 {
+	font-size: 3.2rem;
+	line-height: 1.2em;
+	width: 80%;
+	text-align: center;
+	font-weight: 400;
+	margin: .5em auto;
+}
+
+p {
+	color: #666;
+	font-size: 1.8rem;
+	line-height:1.4em;
+	margin-bottom: 1em;
+}
+

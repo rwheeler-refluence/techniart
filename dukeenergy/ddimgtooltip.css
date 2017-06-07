@@ -1,0 +1,17 @@
+.ddimgtooltip{
+box-shadow: 3px 3px 5px #818181; /*shadow for CSS3 capable browsers.*/
+-webkit-box-shadow: 3px 3px 5px #818181;
+-moz-box-shadow: 3px 3px 5px #818181;
+display:none;
+position:absolute;
+border:1px solid #0497DF;
+background:white;
+color: #0497DF;
+z-index:1000;
+padding: 4px;
+}
+
+a, img {outline:none;}
+map > area,
+map > area:active,
+map > area:focus {outline: none; border:0; }

@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\TechniArt Files\Websites\hawaiienergy-lto\Font\index.php
+FileModTime:1472055600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\TechniArt Files\Websites\hawaiienergy-lto\Font\vjs.eot
+FileModTime:1436453898
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\TechniArt Files\Websites\hawaiienergy-lto\Font\vjs.svg
+FileModTime:1436453898
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:icomoon
+FamilyName:icomoon
+StyleName:Regular
+FullName:icomoon
+MenuName:icomoon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\TechniArt Files\Websites\hawaiienergy-lto\Font\vjs.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:4640
+FileModTime:1436453898
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,
+NameArray:0,Win,1,icomoon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\TechniArt Files\Websites\hawaiienergy-lto\Font\vjs.woff
+FileModTime:1436453898
+%EndFont
+

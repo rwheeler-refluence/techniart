@@ -1,0 +1,69 @@
+
+
+
+01/17/2014 11:27:05
+new session started
+
+
+array (
+  'SESS_ACCT' => '',
+  'SESS_FNAME' => '',
+  'SESS_LNAME' => '',
+  'SESS_ADD1' => '',
+  'SESS_ADD2' => '',
+  'SESS_CITY' => '',
+  'SESS_ZIP' => '',
+  'SESS_CASCADE_MEMBER' => '',
+  'SESS_B_FNAME' => '',
+  'SESS_B_LNAME' => '',
+  'SESS_B_ADD1' => '',
+  'SESS_B_ADD2' => '',
+  'SESS_B_CITY' => '',
+  'SESS_B_STATE' => '',
+  'SESS_B_ZIP' => '',
+  'SESS_B_EMAIL' => '',
+  'SESS_B_PHONE' => '',
+  'SESS_B_PASS' => '',
+)
+
+
+01/17/2014 11:30:10
+new session started
+
+
+array (
+)
+
+
+01/17/2014 11:30:24
+new session started
+
+
+array (
+  'SESS_ACCT' => '123456ZX',
+  'SESS_FNAME' => 'Tom',
+  'SESS_LNAME' => 'White',
+  'SESS_ADD1' => '123 Smith Ave',
+  'SESS_ADD2' => 'Suite B',
+  'SESS_CITY' => 'Redmond',
+  'SESS_ZIP' => '98052',
+  'SESS_CASCADE_MEMBER' => '',
+  'SESS_B_FNAME' => 'Stephen',
+  'SESS_B_LNAME' => 'White',
+  'SESS_B_ADD1' => '7286 1234th',
+  'SESS_B_ADD2' => '#103',
+  'SESS_B_CITY' => 'Redmond',
+  'SESS_B_STATE' => 'WA',
+  'SESS_B_ZIP' => '98251',
+  'SESS_B_EMAIL' => 'stephen@cisdirect.com',
+  'SESS_B_PHONE' => '4252331993',
+  'SESS_B_PASS' => 'abc123',
+)
+
+
+01/17/2014 11:30:44
+new session started
+
+
+array (
+)

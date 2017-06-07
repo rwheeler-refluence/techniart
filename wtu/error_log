@@ -1,0 +1,288 @@
+[22-Sep-2016 12:59:31 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/wtu/store-cat.php on line 162
+[22-Sep-2016 12:59:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/wtu/store-cat.php on line 162
+[22-Sep-2016 12:59:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/wtu/store-cat.php on line 162
+[22-Sep-2016 12:59:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/wtu/store-cat.php on line 162
+[22-Sep-2016 12:59:32 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/wtu/store-cat.php on line 162
+[11-Oct-2016 16:18:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[14-Oct-2016 10:59:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 15:14:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 15:29:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 15:30:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 15:33:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 17:39:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 17:53:40 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 17:54:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 18:07:40 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 18:08:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 18:42:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 18:52:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 18:53:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 18:54:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 19:03:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 19:04:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 19:36:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 19:39:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 19:41:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[20-Oct-2016 21:57:50 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:57:50 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:00 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:00 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED13A21DOD27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:10 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:10 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED18A21DOD27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:20 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:20 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:30 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 21:58:30 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store-cat.php on line 153
+[20-Oct-2016 22:18:38 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:18:38 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:18:48 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:18:48 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10BR30D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:18:53 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:18:53 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/6G25DLED27.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:03 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:03 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED10A19D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:06 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:06 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED13A21DOD27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:07 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:07 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED5E12B1127K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:07 America/Denver] PHP Warning:  getimagesize(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[20-Oct-2016 22:19:07 America/Denver] PHP Warning:  getimagesize(http://www.techniart.us/cpe/pix/products/thumbnails/LED12BR40D27K.jpg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techniar/public_html/wtu/store.php on line 48
+[21-Oct-2016 00:36:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[21-Oct-2016 07:15:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[21-Oct-2016 07:16:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[21-Oct-2016 07:18:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[21-Oct-2016 07:20:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[21-Oct-2016 08:04:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[21-Oct-2016 08:10:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[21-Oct-2016 08:58:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[22-Oct-2016 06:22:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[22-Oct-2016 06:23:25 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[22-Oct-2016 06:23:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[22-Oct-2016 08:44:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[24-Oct-2016 15:34:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[24-Oct-2016 15:40:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[24-Oct-2016 15:43:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[25-Oct-2016 07:55:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[25-Oct-2016 16:36:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[25-Oct-2016 18:04:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[26-Oct-2016 02:49:14 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[26-Oct-2016 07:58:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[26-Oct-2016 21:59:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[26-Oct-2016 22:00:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[04-Nov-2016 05:33:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[07-Nov-2016 14:11:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[07-Nov-2016 19:55:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[23-Nov-2016 19:07:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[23-Nov-2016 21:48:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/changezip1.php on line 9
+[26-Nov-2016 19:27:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[26-Nov-2016 22:25:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[27-Nov-2016 09:11:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[28-Nov-2016 15:06:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[28-Nov-2016 15:07:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[08-Dec-2016 11:11:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/changezip1.php on line 9
+[08-Dec-2016 11:11:37 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Dec-2016 11:11:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Dec-2016 11:11:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Dec-2016 11:11:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/changezip1.php on line 9
+[08-Dec-2016 11:11:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Dec-2016 11:12:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Dec-2016 11:12:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/wtu/cart.php on line 15
+[08-Dec-2016 11:12:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Dec-2016 15:06:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/changezip1.php on line 9
+[08-Dec-2016 15:06:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Dec-2016 01:32:37 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/changezip1.php on line 9
+[09-Dec-2016 01:32:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[12-Dec-2016 07:09:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[12-Dec-2016 22:50:15 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-Dec-2016 18:44:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-Dec-2016 22:29:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-Dec-2016 22:29:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[15-Dec-2016 09:32:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[17-Dec-2016 17:10:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[17-Dec-2016 20:39:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[17-Dec-2016 20:39:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[18-Dec-2016 12:34:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[18-Dec-2016 19:42:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Dec-2016 18:16:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[20-Dec-2016 03:46:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[20-Dec-2016 03:46:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[22-Dec-2016 21:49:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[25-Dec-2016 16:20:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[25-Dec-2016 21:39:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[27-Dec-2016 06:15:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Dec-2016 12:42:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Dec-2016 12:42:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Dec-2016 12:42:18 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Dec-2016 12:42:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Dec-2016 12:42:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Dec-2016 12:42:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Dec-2016 12:42:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 13:39:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 13:39:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 13:39:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 13:39:15 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 13:39:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 13:39:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 13:39:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[01-Jan-2017 16:47:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Jan-2017 15:45:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 05:37:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 05:37:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 05:37:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 05:37:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 05:37:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 05:37:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 05:37:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Jan-2017 20:07:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[05-Jan-2017 00:40:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[05-Jan-2017 07:55:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[07-Jan-2017 02:01:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Jan-2017 02:10:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Jan-2017 02:11:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Jan-2017 02:11:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Jan-2017 02:11:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Jan-2017 02:11:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Jan-2017 02:11:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Jan-2017 02:11:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Jan-2017 04:14:25 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[22-Jan-2017 19:49:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[23-Jan-2017 12:02:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[27-Jan-2017 18:43:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[28-Jan-2017 07:43:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[28-Jan-2017 15:38:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[30-Jan-2017 03:55:28 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Feb-2017 13:46:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[05-Feb-2017 14:46:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Feb-2017 15:16:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Feb-2017 23:11:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[11-Feb-2017 15:05:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[12-Feb-2017 07:58:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[14-Feb-2017 01:07:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[15-Feb-2017 07:54:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[17-Feb-2017 21:33:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[18-Feb-2017 07:45:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Feb-2017 11:03:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Feb-2017 20:27:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[20-Feb-2017 15:12:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[21-Feb-2017 09:16:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[21-Feb-2017 15:49:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[22-Feb-2017 14:35:18 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Mar-2017 13:50:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/changezip1.php on line 9
+[02-Mar-2017 13:50:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Mar-2017 13:50:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/changezip1.php on line 9
+[02-Mar-2017 13:50:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Mar-2017 13:50:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[03-Mar-2017 16:02:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Mar-2017 08:08:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[07-Mar-2017 06:33:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[07-Mar-2017 13:51:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Mar-2017 01:34:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-Mar-2017 20:43:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Mar-2017 02:19:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[09-Mar-2017 12:35:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-Mar-2017 07:16:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[16-Mar-2017 12:30:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[17-Mar-2017 04:56:37 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[17-Mar-2017 12:08:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[18-Mar-2017 07:45:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[18-Mar-2017 07:45:52 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[18-Mar-2017 07:45:52 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 88
+[18-Mar-2017 07:45:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 90
+[18-Mar-2017 07:45:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[18-Mar-2017 12:49:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Mar-2017 02:45:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Mar-2017 02:45:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[19-Mar-2017 02:45:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 88
+[19-Mar-2017 02:45:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 90
+[19-Mar-2017 02:45:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[19-Mar-2017 13:14:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Mar-2017 13:14:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[19-Mar-2017 13:14:44 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 88
+[19-Mar-2017 13:14:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 90
+[19-Mar-2017 13:14:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[19-Mar-2017 19:20:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-Mar-2017 23:53:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[22-Mar-2017 07:02:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[23-Mar-2017 23:35:05 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[25-Mar-2017 07:53:18 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[25-Mar-2017 07:53:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[25-Mar-2017 07:53:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[25-Mar-2017 07:53:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 88
+[25-Mar-2017 07:53:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 90
+[25-Mar-2017 07:53:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[25-Mar-2017 14:42:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[26-Mar-2017 18:02:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[28-Mar-2017 00:48:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[28-Mar-2017 02:10:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[28-Mar-2017 02:17:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Mar-2017 05:25:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Apr-2017 03:27:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Apr-2017 11:46:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[04-Apr-2017 03:54:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[10-Apr-2017 05:51:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-Apr-2017 10:13:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-Apr-2017 10:13:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-Apr-2017 10:13:35 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[13-Apr-2017 10:13:35 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 88
+[13-Apr-2017 10:13:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 90
+[13-Apr-2017 10:13:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[15-Apr-2017 03:02:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[17-Apr-2017 10:23:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[20-Apr-2017 05:39:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[25-Apr-2017 02:01:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[27-Apr-2017 08:56:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[27-Apr-2017 14:36:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[27-Apr-2017 18:55:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[27-Apr-2017 19:22:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[29-Apr-2017 16:28:05 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[30-Apr-2017 01:01:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[05-May-2017 23:55:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[07-May-2017 09:43:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[07-May-2017 20:10:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[08-May-2017 20:36:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[10-May-2017 19:29:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[13-May-2017 03:56:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[14-May-2017 06:07:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[16-May-2017 22:17:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[19-May-2017 04:06:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[20-May-2017 13:32:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[24-May-2017 15:39:59 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[26-May-2017 00:58:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[26-May-2017 04:52:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[27-May-2017 22:27:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[28-May-2017 13:03:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[28-May-2017 23:42:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[31-May-2017 02:29:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[02-Jun-2017 11:36:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Jun-2017 09:13:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Jun-2017 09:13:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[06-Jun-2017 09:13:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 104
+[06-Jun-2017 09:13:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 106
+[06-Jun-2017 09:13:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[06-Jun-2017 09:13:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Jun-2017 09:13:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[06-Jun-2017 09:13:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 104
+[06-Jun-2017 09:13:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 106
+[06-Jun-2017 09:13:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[06-Jun-2017 09:13:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Jun-2017 09:13:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[06-Jun-2017 09:13:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 104
+[06-Jun-2017 09:13:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 106
+[06-Jun-2017 09:13:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[06-Jun-2017 09:13:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Jun-2017 09:13:34 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[06-Jun-2017 09:13:35 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 104
+[06-Jun-2017 09:13:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 106
+[06-Jun-2017 09:13:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[06-Jun-2017 09:13:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Jun-2017 09:13:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[06-Jun-2017 09:13:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 104
+[06-Jun-2017 09:13:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 106
+[06-Jun-2017 09:13:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125
+[06-Jun-2017 09:13:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/header.php on line 13
+[06-Jun-2017 09:13:42 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 69
+[06-Jun-2017 09:13:42 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 104
+[06-Jun-2017 09:13:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 106
+[06-Jun-2017 09:13:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/wtu/store-cat.php on line 125

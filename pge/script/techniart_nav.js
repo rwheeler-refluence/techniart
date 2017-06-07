@@ -1,0 +1,14 @@
+stm_bm(["menu763f",700,"pix/","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","",0,0,1,2,"default","hand","script/"],this);
+stm_bp("p0",[0,4,0,0,0,0,0,0,100,"",-2,"",-2,50,0,0,"#999999","transparent","",3,0,0,"#000000"]);
+stm_ai("p0i0",[2,"","l_space.jpg","l_space.jpg",29,62,0,"","_self","","","","",0,0,0,"","",0,0,0,0,1,"#FFFFF7",1,"#B5BED6",1,"","",3,3,0,0,"#FFFFF7","#000000","#000000","#000000","8pt Verdana","8pt Verdana",0,0]);
+stm_aix("p0i1","p0i0",[2,"","decor.jpg","decor-over.jpg",122,62,0,"http://www.techniart.com/EB/store-cat.php?cat=Decorative","_self","","Decorative CFLs"]);
+stm_aix("p0i2","p0i0",[2,"","3ways.jpg","3ways-over.jpg",82,62,0,"http://www.techniart.com/EB/store-cat.php?cat=3-way Spirals","_self","","3-way Spirals"]);
+stm_aix("p0i3","p0i0",[2,"","dimm.jpg","dimm-over.jpg",120,62,0,"http://www.techniart.com/EB/store-cat.php?cat=Dimmable","_self","","Dimmable CFLs"]);
+stm_aix("p0i4","p0i0",[2,"","floods.jpg","floods-over.jpg",138,62,0,"http://www.techniart.com/EB/store-cat.php?cat=Flood Lights","_self","","Flood Lights"]);
+stm_aix("p0i5","p0i0",[2,"","leds.jpg","leds-over.jpg",65,62,0,"http://www.techniart.com/EB/store-cat.php?cat=LED Products","_self","","LED Products"]);
+stm_aix("p0i6","p0i0",[2,"","fixtures.jpg","fixtures-over.jpg",102,62,0,"http://www.techniart.com/EB/store-cat.php?cat=Energy Star Fixtures","_self","","Fixtures"]);
+stm_aix("p0i7","p0i0",[2,"","trickle.jpg","trickle-over.jpg",135,62,0,"http://www.techniart.com/EB/store-cat.php?cat=Power%20Saving%20Devices","_self","","TrickleStrip"]);
+stm_aix("p0i8","p0i0",[2,"","combo.jpg","combo-over.jpg",83,62,0,"http://www.techniart.com/EB/masssaver.php","_self","","Mass Saver Show Combo"]);
+stm_aix("p0i9","p0i0",[2,"","r_space.jpg","r_space.jpg",28,62]);
+stm_ep();
+stm_em();

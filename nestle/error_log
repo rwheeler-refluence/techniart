@@ -1,0 +1,92 @@
+[01-Jun-2017 09:17:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 09:18:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 09:19:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 09:20:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 09:22:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 09:22:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 09:54:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 10:00:25 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[01-Jun-2017 12:34:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[02-Jun-2017 17:08:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[02-Jun-2017 17:09:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[02-Jun-2017 17:09:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[02-Jun-2017 17:11:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[04-Jun-2017 13:45:55 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[04-Jun-2017 13:45:56 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[04-Jun-2017 13:46:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[04-Jun-2017 13:46:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[04-Jun-2017 13:47:10 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 146
+[04-Jun-2017 13:47:11 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 167
+[04-Jun-2017 13:48:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[04-Jun-2017 13:48:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[04-Jun-2017 13:48:34 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[04-Jun-2017 13:48:34 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[04-Jun-2017 13:48:52 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 146
+[04-Jun-2017 13:48:54 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 167
+[05-Jun-2017 05:06:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[05-Jun-2017 05:28:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[05-Jun-2017 05:28:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[05-Jun-2017 05:28:33 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[05-Jun-2017 05:28:33 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[05-Jun-2017 05:28:50 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 146
+[05-Jun-2017 05:28:52 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 167
+[05-Jun-2017 05:30:52 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[05-Jun-2017 05:30:52 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[05-Jun-2017 05:30:57 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[05-Jun-2017 05:30:57 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[05-Jun-2017 05:31:10 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 146
+[05-Jun-2017 05:31:12 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 167
+[05-Jun-2017 05:49:52 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[05-Jun-2017 05:49:53 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[05-Jun-2017 05:49:56 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[05-Jun-2017 05:49:56 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[05-Jun-2017 05:50:11 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 146
+[05-Jun-2017 05:50:12 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 167
+[05-Jun-2017 05:50:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/process.php on line 64
+[05-Jun-2017 05:50:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/process.php on line 66
+[05-Jun-2017 05:50:13 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[05-Jun-2017 05:50:13 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 05:47:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 05:48:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 05:50:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 06:59:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 07:01:12 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[06-Jun-2017 07:01:13 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[06-Jun-2017 07:01:13 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[06-Jun-2017 07:01:15 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[06-Jun-2017 07:01:15 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[06-Jun-2017 07:01:16 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[06-Jun-2017 07:01:29 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 146
+[06-Jun-2017 07:01:31 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 167
+[06-Jun-2017 07:01:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/process.php on line 64
+[06-Jun-2017 07:01:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/process.php on line 66
+[06-Jun-2017 07:01:31 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 07:01:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 07:01:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 08:29:14 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 08:30:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:22:40 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:22:56 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:23:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:25:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:25:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:26:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:27:57 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[06-Jun-2017 10:27:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[06-Jun-2017 10:27:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[06-Jun-2017 10:27:59 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm_pre.php on line 123
+[06-Jun-2017 10:28:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[06-Jun-2017 10:28:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[06-Jun-2017 10:28:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[06-Jun-2017 10:28:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/confirm.php on line 111
+[06-Jun-2017 10:28:22 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 146
+[06-Jun-2017 10:28:24 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/nestle/phpauthnet_aim.php on line 167
+[06-Jun-2017 10:28:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/process.php on line 64
+[06-Jun-2017 10:28:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/process.php on line 66
+[06-Jun-2017 10:28:25 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 10:28:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 10:28:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 10:28:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/nestle/process.php on line 213
+[06-Jun-2017 10:52:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:56:42 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36
+[06-Jun-2017 10:56:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/nestle/cart.php on line 36

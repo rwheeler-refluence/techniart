@@ -1,0 +1,134 @@
+<!-- INCLUDE includes/header.tpl.html -->
+<!-- INCLUDE includes/nav.tpl.html -->
+<table width="671" border="0" cellspacing="0" cellpadding="0"><tr>
+<td><span class="body_content"><span style="font-size: 14px;"><b>{MAIN_TITLE_SUB} | </b></span><span style="color:#a02136; font-size: 18px;"><b>{SECONDARY_TITLE_SUB}</b></span></td>
+<td align="right">&nbsp;</td>
+</tr><tr>
+<td colspan="2"><img src="pix/pix_6e88a5.gif" alt="" width="671" height="1" border="0"><br>
+<img src="pix/pix_trans.gif" alt="" width="1" height="10" border="0"><br>
+
+<!-- BEGIN add_message -->
+<b>{ADD_MESSAGE}</b><br><br>
+<!-- END add_message -->
+
+<form method="post" action="{PHP_SELF}" enctype="multipart/form-data">
+<input type="hidden" name="action" value="update">
+<table border="0" width="400">
+<tr>
+<td><span class="body_content"><b>Category</b></span><br>
+<input type="text" size="45" name="category"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Subcategory</b></span><br>
+<input type="text" size="45" name="subcategory"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Subcategory 2</b></span><br>
+<input type="text" size="45" name="subcategory2"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Subcategory 3</b></span><br>
+<input type="text" size="45" name="subcategory3"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Class</b></span><br>
+<input type="text" size="45" name="class"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Product Title</b></span><br>
+<input type="text" size="45" name="productName"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Product Image</b></span><br>
+<input type="file" size="45" name="imageLoc"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Model Number</b></span><br>
+<input type="text" size="45" name="modelNumber"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>MSRP</b></span><br>
+<span class="body_content"><b>$</b></span><input type="text" size="45" name="MSRP"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Discount Price</b></span><br>
+<span class="body_content"><b>$</b></span><input type="text" size="45" name="disct_price"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>M.O.L.</b></span><br>
+<input type="text" size="45" name="MOL"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Watts Used</b></span><br>
+<input type="text" size="45" name="watts_used"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Replacement Wattage</b></span><br>
+<input type="text" size="45" name="replacement_wattage"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Light Output</b></span><br>
+<input type="text" size="45" name="light_output"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Color Temp</b></span><br>
+<input type="text" size="45" name="color_temp"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Color Rendering</b></span><br>
+<input type="text" size="45" name="color_rendering"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Rated Lifetime</b></span><br>
+<input type="text" size="45" name="rated_lifetime"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Minimum Start Temp</b></span><br>
+<input type="text" size="45" name="subcategory"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Electrical Spec</b></span><br>
+<input type="text" size="45" name="electrical_spec"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Base</b></span><br>
+<input type="text" size="45" name="base"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Manuf. Warranty</b></span><br>
+<input type="text" size="45" name="manuf_warranty"></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td><span class="body_content"><b>Energy Star?</b></span><br>
+<select name="energy_star" size="1">
+<option value="Yes">Yes
+<option value="No">No
+</select>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td colspan="2"><input type="submit" value="Add Product"></td></tr></table>
+</form>
+
+<!-- INCLUDE includes/footer.tpl.html -->

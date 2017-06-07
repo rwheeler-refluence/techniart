@@ -1,0 +1,89 @@
+.rcorners2 {
+    border-radius: 15px;
+    border: 1px solid #b2b3b7;
+    width: 906px;
+	overflow: hidden;
+	background: #b2b3b7;
+}
+
+.rcorners3 {
+    
+background: #fbfbfb; /* Old browsers */
+background: -moz-linear-gradient(top,  #e7e3c4 0%, #ffffff 92%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fbfbfb), color-stop(92%,#ffffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #fbfbfb 0%,#ffffff 92%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #fbfbfb 0%,#ffffff 92%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #fbfbfb 0%,#ffffff 92%); /* IE10+ */
+background: linear-gradient(to bottom,  #fbfbfb 0%,#ffffff 92%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+.btn {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  background: #b2b3b7;
+  padding: 7px 12px 7px 12px;
+  border: solid #cccccc 0.5px;
+  text-decoration: bold;
+}
+
+.btn:hover {
+  background: #717271;
+  text-decoration: none;
+}
+.btn2 {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  background: #1094d3;
+  padding: 5px 10px 5px 10px;
+  border: solid #cccccc 0.5px;
+  text-decoration: bold;
+}
+
+.btn2:hover {
+  background: #717271;
+  text-decoration: none;
+}
+.btn3 {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  background: #717271;
+  padding: 5px 10px 5px 10px;
+  border: solid #cccccc 0.5px;
+  text-decoration: bold;
+}
+
+.btn3:hover {
+  background: #1094d3;
+  text-decoration: none;
+}
+.btn4 {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #1094d3;
+  padding: 2px 5px 2px 5px;
+  border: solid #cccccc 0.5px;
+  text-decoration: bold;
+}
+
+.btn4:hover {
+  background: #717271;
+  text-decoration: none;
+}
+.btn5 {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #717271;
+  padding: 2px 5px 2px 5px;
+  border: solid #cccccc 0.5px;
+  text-decoration: bold;
+}
+
+.btn5:hover {
+  background: #1094d3;
+  text-decoration: none;
+}

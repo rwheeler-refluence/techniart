@@ -1,0 +1,182 @@
+
+<div id="reg_content" style="position:absolute;width:700px;height:5px;left:0px;top:0px;background-color:#ffffff;border:0px solid #ccc;z-index:14;padding-left:50px;padding-top:10px;">
+
+    <p style="font: 24px Fjalla One; font-weight:regular;color:#86b800;padding-top:3px;">Create/Edit Account</p>
+    <br />
+	<p style="font: 18px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:5px;">Customer Information</p>
+	
+
+</div>
+
+<div style="position:absolute;left:722px;top:60px; height:25px;text-align:center;padding-top: 4px;width:150px;font: 20px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 8;-moz-border-radius: 5px; border-radius: 5px;" onclick="showSec('prods');">PRODUCTS</div>
+
+<div class="reginput" style="position:absolute;left:50px;top:105px;width:900px;z-index: 6;line-height:200%;">
+
+<table>
+
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Account or Customer #</TD>
+      <td width="75%"align="left" valign="middle"><input type="text" id="acct_num" tabindex="1" onchange="" size="65" MAXLENGTH = 20/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">First Name</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="fname" onchange="" tabindex="2" size="65" MAXLENGTH = 35/></TD>
+  </TR>
+
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Last Name</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="lname" tabindex="3" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Address 1</TD>
+      <td width="70%"align="left" valign="middle"><input type="text" id="add1" tabindex="4" onchange="" size="65" MAXLENGTH = 20/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Address 2</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="add2" onchange="" tabindex="5" size="65" MAXLENGTH = 35/></TD>
+  </TR>
+
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">City</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="city" tabindex="6" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">State</TD>
+      <td width="70%"align="left" valign="middle"><input type="text" id="state" tabindex="7" onchange="" size="65" Value="WA" readonly="readonly" MAXLENGTH = 20/></TD>
+  </TR>
+  
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Zip Code</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="zip" tabindex="8" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+ 
+  <TR width="94%" style="padding-bottom:50px;">
+      <td width="25%" align="left" class="reglbl" valign="middle">Cascade Member</TD>
+      <td width="75%" align="left" valign="middle">
+
+        <select id="cascade_member">
+           <option selected="selected">Select a District</option>
+           <option>Bellevue</option>
+           <option>Covington water District</option>
+           <option>Issaquah</option>
+           <option>Kirkland</option>
+           <option>Redmond</option>
+           <option>Sammamish Plateau</option>
+           <option>Skyway</option>
+           <option>Tukwila</option>
+           <option>Gold Bar</option>
+         </select>
+
+      </td>
+      
+  </TR>
+  
+</table>
+     
+</div>
+
+<div id="reg_content" style="position:absolute;width:700px;height:5px;left:0px;top:475px;background-color:#ffffff;border:0px solid #ccc;z-index:14;padding-left:50px;padding-top:10px;">
+	<p style="font: 18px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:5px;">Billing Information</p>
+	<p><input type="checkbox" id="use_add" tabindex="10" onclick="useaddr();" size="65" MAXLENGTH = 20/>&nbsp;Use service address Info from above.</p>
+</div>
+
+<div class="reginput" style="position:absolute;left:50px;top:545px;width:900px;z-index: 6;line-height:200%;"/>
+
+
+<table>
+
+  
+    
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">First Name</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="b_fname" onchange="" tabindex="11" size="65" MAXLENGTH = 35/></TD>
+  </TR>
+
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Last Name</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="b_lname" tabindex="12" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Address 1</TD>
+      <td width="70%"align="left" valign="middle"><input type="text" id="b_add1" tabindex="13" onchange="" size="65" MAXLENGTH = 20/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Address 2</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="b_add2" onchange="" tabindex="14" size="65" MAXLENGTH = 35/></TD>
+  </TR>
+
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">City</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="b_city" tabindex="15" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">State</TD>
+      <td width="70%"align="left" valign="middle"><input type="text" id="b_state" tabindex="16" onchange="" size="65" Value="WA" readonly="readonly" MAXLENGTH = 20/></TD>
+  </TR>
+  
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Zip Code</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="b_zip" tabindex="17" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+ 
+    
+</table>     
+
+</div>
+
+<div id="reg_content" style="position:absolute;width:700px;height:5px;left:0px;top:825px;background-color:#ffffff;border:0px solid #ccc;z-index:14;padding-left:50px;padding-top:10px;">
+	<p style="font: 18px Fjalla One; font-weight:regular;color:#1d4d7b;padding-top:5px;">Login Information</p>
+</div>
+
+<div class="reginput" style="position:absolute;left:50px;top:880px;width:900px;z-index: 6;line-height:200%;">
+
+<table>
+
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Email</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="email" onchange="" tabindex="18" size="65" MAXLENGTH = 35/></TD>
+  </TR>
+
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Phone</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="phone" tabindex="19" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+  
+ 
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Password</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="pass" onchange="" tabindex="20" size="65" MAXLENGTH = 35/></TD>
+  </TR>
+
+  <TR width="94%">
+      <td width="25%" align="left" class="reglbl" valign="middle">Confirm Password</TD>
+      <td width="75%" align="left" valign="middle"><input type="text" id="pass2" tabindex="21" onchange="" size="65" MAXLENGTH = 30/></TD>
+  </TR>
+  
+</table>     
+
+</div>
+
+<div style="position:absolute;left:55px;top:1130px; height:25px;width:150px;font: 14px Archivo Narrow;color:#4e4d7b;z-index: 6;line-height:25px;"><a href="http://cascadewater.org/privacy_policy.php">Privacy Policy</a> </div>
+<div style="position:absolute;left:550px;top:1110px; height:35px;border:0px dashed #000000;text-align:center;padding-top: 4px;width:150px;font: 24px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="showSec('prods');">PRODUCTS</div>
+<div style="position:absolute;left:750px;top:1110px; height:35px;border:0px dashed #000000;text-align:center;padding-top: 4px;width:150px;font: 24px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="addeditCust();">SAVE</div>
+
+
+<div class="footer" style="position:absolute;left:0px;top:1250px;width:975px;height:195px;z-index: 16;background-color:#1d4d7b;display:block;">
+
+  	  
+	<? include("includes/screens/footer_scr.txt"); ?>
+	
+	
+	
+
+</div>

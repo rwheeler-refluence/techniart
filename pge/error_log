@@ -1,0 +1,28 @@
+[17-Apr-2017 09:27:56 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/pge/cart.php on line 19
+[26-Apr-2017 15:38:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/pge/cart.php on line 19
+[26-Apr-2017 15:38:37 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[26-Apr-2017 15:39:18 America/Denver] PHP Warning:  min(): When only one parameter is given, it must be an array in /home/techniar/public_html/pge/confirm.php on line 175
+[01-May-2017 10:30:56 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/pge/cart.php on line 19
+[01-May-2017 10:31:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/pge/cart.php on line 19
+[12-May-2017 15:23:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/pge/cart.php on line 19
+[12-May-2017 15:23:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:24:05 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:24:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:24:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:25:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:27:18 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:27:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:28:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:28:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:28:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:29:25 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:30:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:30:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:32:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:32:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:32:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[12-May-2017 15:36:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[15-May-2017 11:01:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/pge/cart.php on line 19
+[15-May-2017 11:01:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/pge/orderform.php on line 348
+[15-May-2017 11:02:56 America/Denver] PHP Warning:  min(): When only one parameter is given, it must be an array in /home/techniar/public_html/pge/confirm.php on line 175
+[15-May-2017 11:05:05 America/Denver] PHP Warning:  min(): When only one parameter is given, it must be an array in /home/techniar/public_html/pge/confirm.php on line 175

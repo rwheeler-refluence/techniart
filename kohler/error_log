@@ -1,0 +1,74 @@
+[01-Jun-2017 00:07:40 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/LA211627V2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:07:40 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/L3WA211727.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:07:40 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/LR2727D5.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:07:40 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/LBR41027D5.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:07:40 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/453431.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:09:35 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/LA211627V2.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:09:35 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/L3WA211727.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:09:35 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/LR2727D5.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:09:35 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/LBR41027D5.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:09:35 America/Denver] PHP Warning:  getimagesize(https://techniart.us/hertzgroup/pix/products/thumbnails/453431.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/techniar/public_html/kohler/store-cat.php on line 126
+[01-Jun-2017 00:13:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 00:14:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 00:15:24 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 00:15:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 00:15:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 00:21:42 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:35:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:35:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:36:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:37:15 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:38:23 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:48:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:48:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:49:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:56:42 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:56:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:57:00 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 07:57:22 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:01:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:01:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:01:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:02:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:02:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:09:17 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:22:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:23:15 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:33:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:38:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:43:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[01-Jun-2017 08:48:07 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:08 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:08 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:11 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:11 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:12 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:12 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:13 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:13 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 08:48:15 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 08:48:16 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 08:48:16 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 09:08:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 09:08:59 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 09:08:59 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm_pre.php on line 123
+[01-Jun-2017 09:09:00 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 09:09:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 09:09:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 09:09:39 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 09:09:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 09:09:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/kohler/confirm.php on line 111
+[01-Jun-2017 09:20:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[06-Jun-2017 06:52:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[06-Jun-2017 06:52:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36
+[06-Jun-2017 06:53:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/kohler/cart.php on line 36

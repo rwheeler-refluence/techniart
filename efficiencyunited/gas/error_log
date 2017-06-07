@@ -1,0 +1,203 @@
+[21-Feb-2017 17:12:02 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[21-Feb-2017 17:12:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 61
+[21-Feb-2017 17:33:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[21-Feb-2017 17:33:36 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[21-Feb-2017 17:33:37 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 123
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 132
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 123
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 132
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 123
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 132
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 123
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 132
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:05 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 123
+[21-Feb-2017 17:50:06 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:06 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/eu-new/gas/store.php on line 132
+[21-Feb-2017 17:50:06 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:55 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 17:50:56 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/store.php on line 130
+[21-Feb-2017 17:50:56 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 18:04:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[21-Feb-2017 18:04:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 18:04:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 18:04:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 18:04:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[21-Feb-2017 18:04:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[22-Feb-2017 07:14:33 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[22-Feb-2017 07:14:33 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[22-Feb-2017 07:14:33 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[22-Feb-2017 07:14:33 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[22-Feb-2017 07:14:33 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[22-Feb-2017 07:14:33 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 08:05:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 08:05:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 08:05:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 08:05:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 08:05:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 08:05:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 09:48:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:14 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 09:48:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 09:48:22 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 09:48:22 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:22 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:22 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:22 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 09:48:22 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:22:22 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 12:22:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:22:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:22:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:22:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:22:23 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:24:57 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 12:24:57 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:24:57 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:24:57 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:24:57 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 12:24:57 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:08:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 13:08:19 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:08:19 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:08:19 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:08:19 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:08:19 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:16:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[23-Feb-2017 13:16:30 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:16:30 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:16:30 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:16:30 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[23-Feb-2017 13:16:30 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:48 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[27-Feb-2017 07:41:49 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:49 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:49 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:49 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:49 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:50 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/eu-new/gas/zip.php on line 37
+[27-Feb-2017 07:41:50 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:50 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:50 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:50 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[27-Feb-2017 07:41:50 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 192
+[07-Mar-2017 15:41:10 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:10 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:10 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:10 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:10 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:37 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:37 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:37 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:37 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:41:37 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:42:14 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:42:14 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:42:14 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:42:14 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:42:14 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:41 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:41 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:41 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:41 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:41 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:53 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:53 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:53 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:53 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:56:53 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:58:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:58:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:58:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:58:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:58:58 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:36 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:36 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:36 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:36 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:36 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:39 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:39 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:39 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:39 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 15:59:39 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:00:35 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:00:35 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:00:35 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:00:35 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:00:35 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:05:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:05:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:05:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:05:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:05:34 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:06:38 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3210B): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:38 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3115): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:38 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3020-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:38 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3011-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:38 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3312 ): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:44 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3210B): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:44 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3115): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:44 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3020-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:44 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3011-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:06:44 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3312 ): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 182
+[07-Mar-2017 16:08:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:08:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:08:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:08:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:08:04 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:08:39 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3210B): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:08:39 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3115): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:08:39 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3020-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:08:39 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3011-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:08:39 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3312 ): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:00 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3210B): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:00 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3115): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:00 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3020-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:00 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3011-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:00 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3312 ): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:32 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3210B): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:32 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/N3115): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:32 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3020-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:32 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3011-CP150-SB): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:09:32 America/Denver] PHP Warning:  getimagesize(pix/products/thumbnails/EV3312 ): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 183
+[07-Mar-2017 16:16:11 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:16:11 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:20:53 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:20:53 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:21:07 America/Denver] PHP Warning:  getimagesize(pix/products/soon.jpg): failed to open stream: No such file or directory in /home/techniar/public_html/eu-new/gas/store.php on line 193
+[07-Mar-2017 16:33:36 America/Denver] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/techniar/public_html/eu-new/gas/store-detail.php on line 251
+[07-Mar-2017 16:33:38 America/Denver] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/techniar/public_html/eu-new/gas/store-detail.php on line 251
+[09-Mar-2017 21:41:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/efficiencyunited/gas/cart.php on line 37
+[09-Mar-2017 21:42:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/efficiencyunited/gas/cart.php on line 37
+[09-Mar-2017 21:42:50 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/efficiencyunited/gas/cart.php on line 37
+[09-Mar-2017 21:42:54 America/Denver] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/techniar/public_html/efficiencyunited/gas/orderform.php on line 343
+[09-Mar-2017 21:43:15 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/efficiencyunited/gas/confirm_pre.php on line 50
+[19-May-2017 13:28:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/efficiencyunited/gas/cart.php on line 37

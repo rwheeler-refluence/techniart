@@ -1,0 +1,4 @@
+[17-Apr-2017 23:19:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/sdport-2017/cart.php on line 35
+[17-Apr-2017 23:19:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/sdport-2017/orderform.php on line 311
+[17-Apr-2017 23:23:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/portauthority/cart.php on line 35
+[17-Apr-2017 23:23:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/portauthority/orderform.php on line 311

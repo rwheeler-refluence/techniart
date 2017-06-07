@@ -1,0 +1,2 @@
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4147180105521146&x_exp_date=1017&x_amount=5.3&x_invoice_num=00022672-02&x_first_name=Omar&x_last_name=Abdullah&x_address=23213+NE+8th+Place+&x_city=Sammamish&x_state=WA&x_zip=98074

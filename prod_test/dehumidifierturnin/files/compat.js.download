@@ -1,0 +1,17 @@
+
+var browser = {
+	compatibility: function () {
+		if(Function('/*@cc_on return document.documentMode===11@*/')()){
+			document.documentElement.className += ' ie-compat';
+		}
+
+		var isFirefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
+
+		if (isFirefox) {
+			document.documentElement.className += ' ff-compat';
+		}
+	}
+}
+$(document).ready(function() {
+	browser.compatibility();
+});

@@ -1,0 +1,38 @@
+
+<div id="reg_content" style="position:absolute;width:700px;height:5px;left:0px;top:0px;background-color:#ffffff;border:0px solid #ccc;z-index:14;padding-left:50px;padding-top:10px;">
+
+	<p style="font: 18px Fjalla One; font-weight:bold;color:#86b800;padding-top:3px;">Shopping Cart</p>
+    <br />
+    <p style="font: 18px Fjalla One; font-weight:bold;color:#1d4d7b;padding-top:5px;">Item(s)</p>
+	
+
+</div>
+
+
+
+
+<div style="position:absolute;left:705px;top:20px; height:25px;text-align:center;padding-top: 4px;width:150px;font: 20px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 8;-moz-border-radius: 5px; border-radius: 5px;" onclick="showSec('review_checkout');">Check Out</div>
+
+<div style="position:absolute;left:755px;top:75px; height:25px;text-align:center;padding-top: 4px;width:150px;font: 20px Fjalla One; font-weight:regular;color:#000000;" >Qty</div>
+
+
+
+<div id="cart_prods" style="position:absolute;left:50px;top:110px;width:800px;border:0px solid #000000;font: 12px Archivo Narrow; ">
+
+<p>test</p>
+		
+</div>
+
+<div id="updatebtn" style="position:absolute;left:700px;height:35px;top:800px;text-align:center;padding-top: 4px;width:150px;font: 24px Fjalla One; font-weight:regular;background-color:#1C4C7A;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="cart_update();">Update</div>
+<div id="continueshopbtn" style="position:absolute;left:435px; height:35px;top:850px;text-align:center;padding-top: 4px;width:250px;font: 24px Fjalla One; font-weight:regular;background-color:#1C4C7A;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="showSec('prods');">Continue Shopping</div>
+<div id="checkoutbtn" style="position:absolute;left:700px;height:35px;top:850px;text-align:center;padding-top: 4px;width:150px;font: 24px Fjalla One; font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="showSec('review_checkout');">Check Out</div>
+
+<div id="footer2" class="footer" style="position:absolute;left:0px;top:900px;width:975px;height:195px;z-index: 16;background-color:#1d4d7b;display:block;">
+
+  	  
+	<? include("includes/screens/footer_scr.txt"); ?>
+	
+	
+	
+
+</div>

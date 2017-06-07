@@ -1,0 +1,6 @@
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4342+5820+1450+8259&x_exp_date=072017&x_amount=5.3&x_invoice_num=34959000&x_first_name=Laura&x_last_name=Sinnema&x_address=15100+SE+38th+st+PMB%23807&x_city=Bellevue&x_state=WA&x_zip=98006
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=&x_exp_date=0&x_amount=6.25&x_invoice_num=34959000&x_first_name=Laura&x_last_name=Sinnema&x_address=15100+SE+38th+st+PMB%23807&x_city=Bellevue&x_state=WA&x_zip=98006
+
+x_login=28mwP3WL&x_tran_key=2BmpB9J752TwdE9K&x_version=3.1&x_delim_data=TRUE&x_delim_char=%7C&x_relay_response=FALSE&x_type=AUTH_CAPTURE&x_method=CC&x_card_num=4342582017876059&x_exp_date=0420&x_amount=6.25&x_invoice_num=34959000&x_first_name=Laura&x_last_name=Sinnema&x_address=15100+SE+38th+st+PMB%23807&x_city=Bellevue&x_state=WA&x_zip=98006

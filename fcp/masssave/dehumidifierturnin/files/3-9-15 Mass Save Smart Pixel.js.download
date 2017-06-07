@@ -1,0 +1,42 @@
+function getCookieValue(ckie, nme) {
+  var splitValues;
+  for (var i = 0; i < ckie.length; i++) {
+    splitValues = ckie[i].split("=");
+  var key = splitValues[0]
+  key = key.replace(/^\s*/gi, "");
+    if (key == nme) {
+      return splitValues[1];
+    }
+  }
+  return 0;
+}
+function counterCookie() {
+  var adName = "rfiAdServeCountY";
+  var num_of_hours_to_save_cookie = 0.5;
+  var cookie = document.cookie;
+  var counter = 0;
+  var nvpair = cookie.split(";");
+  var checkCookie = parseInt(getCookieValue(nvpair,adName), 10);
+ 
+  if (checkCookie != 0 || checkCookie != "") {
+    counter = checkCookie;
+  }
+ 
+  counter++;
+  var newCookieDate = new Date();
+  newCookieDate.setTime(newCookieDate.getTime()+(num_of_hours_to_save_cookie*60*60*1000));
+  var newCookie = adName + "=" + counter;
+  newCookie += "; expires=" + newCookieDate.toGMTString() + "; path=/";
+  window.document.cookie = newCookie;
+  return counter;
+}
+ 
+(function () {
+  var count = counterCookie();
+  var num_of_times_before_firing_conversion = 2;
+  var protocol = "https:" == document.location.protocol ? 'https:' : 'http:';
+  new Image(1,1).src = protocol+"//p.rfihub.com/ca.gif?rb=18113&ca=20658609&ra="+Math.random()+"&ud="+count;
+  if (count == num_of_times_before_firing_conversion) {
+    new Image(1,1).src = protocol+"//p.rfihub.com/ca.gif?rb=18113&ca=20658611&ra="+Math.random()+"&ud="+count;
+  }
+})();

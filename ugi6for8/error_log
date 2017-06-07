@@ -1,0 +1,498 @@
+[21-Dec-2016 09:50:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 09:50:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 09:51:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 09:51:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[21-Dec-2016 09:51:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 09:53:14 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 10:04:26 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 10:10:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[21-Dec-2016 10:11:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[21-Dec-2016 10:12:05 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugilto/phpauthnet_aim.php on line 146
+[21-Dec-2016 10:12:05 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugilto/phpauthnet_aim.php on line 167
+[21-Dec-2016 10:12:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 11:47:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[21-Dec-2016 11:52:22 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 11:58:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 11:59:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 11:59:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 12:00:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 12:19:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[21-Dec-2016 12:27:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[21-Dec-2016 12:28:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugilto/confirm.php on line 276
+[21-Dec-2016 12:31:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugilto/confirm.php on line 276
+[21-Dec-2016 12:32:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugilto/confirm.php on line 276
+[21-Dec-2016 12:32:38 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugilto/phpauthnet_aim.php on line 146
+[21-Dec-2016 12:32:43 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugilto/phpauthnet_aim.php on line 167
+[21-Dec-2016 12:32:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/process.php on line 91
+[21-Dec-2016 12:32:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/process.php on line 93
+[21-Dec-2016 12:32:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugilto/process.php on line 224
+[21-Dec-2016 12:56:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[21-Dec-2016 12:56:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[21-Dec-2016 12:58:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[22-Dec-2016 12:29:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[04-Jan-2017 11:17:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[04-Jan-2017 11:20:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[05-Jan-2017 07:56:17 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugilto/cart.php on line 19
+[05-Jan-2017 07:56:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugilto/orderform.php on line 332
+[10-Jan-2017 09:20:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Jan-2017 09:20:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[10-Jan-2017 09:20:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[10-Jan-2017 09:42:58 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[10-Jan-2017 09:43:04 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[10-Jan-2017 09:43:06 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[10-Jan-2017 09:43:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[10-Jan-2017 09:43:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[10-Jan-2017 09:43:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[10-Jan-2017 09:48:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Jan-2017 09:48:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[10-Jan-2017 09:48:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[10-Jan-2017 09:49:17 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[10-Jan-2017 09:49:19 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[10-Jan-2017 09:49:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[10-Jan-2017 09:49:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[10-Jan-2017 09:49:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[10-Jan-2017 09:52:51 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[10-Jan-2017 09:52:53 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[10-Jan-2017 09:52:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[10-Jan-2017 09:52:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[10-Jan-2017 09:52:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[10-Jan-2017 12:20:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Jan-2017 12:46:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Jan-2017 12:46:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[10-Jan-2017 12:47:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[10-Jan-2017 12:48:02 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[10-Jan-2017 12:48:05 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[10-Jan-2017 12:48:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[10-Jan-2017 12:48:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[10-Jan-2017 12:48:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[10-Jan-2017 12:50:44 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[10-Jan-2017 12:50:46 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[10-Jan-2017 12:50:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[10-Jan-2017 12:50:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[10-Jan-2017 12:50:47 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[16-Jan-2017 12:41:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[16-Jan-2017 12:50:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Jan-2017 14:09:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[26-Jan-2017 14:32:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[26-Jan-2017 14:42:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[30-Jan-2017 06:55:59 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[30-Jan-2017 07:12:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[30-Jan-2017 07:38:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[30-Jan-2017 08:22:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[30-Jan-2017 13:33:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[01-Feb-2017 08:40:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[01-Feb-2017 08:40:56 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[03-Feb-2017 10:06:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:06:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[03-Feb-2017 10:26:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:26:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 25
+[03-Feb-2017 10:26:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 49
+[03-Feb-2017 10:26:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 140
+[03-Feb-2017 10:26:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:26:33 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 25
+[03-Feb-2017 10:26:33 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 49
+[03-Feb-2017 10:26:34 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 140
+[03-Feb-2017 10:27:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:27:42 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:27:43 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 49
+[03-Feb-2017 10:27:43 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 140
+[03-Feb-2017 10:27:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:27:46 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 49
+[03-Feb-2017 10:27:46 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 140
+[03-Feb-2017 10:27:50 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:27:50 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 49
+[03-Feb-2017 10:27:50 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 140
+[03-Feb-2017 10:29:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:29:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 49
+[03-Feb-2017 10:29:29 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 140
+[03-Feb-2017 10:29:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:30:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[03-Feb-2017 10:30:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[03-Feb-2017 10:39:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Feb-2017 10:39:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[03-Feb-2017 10:39:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[03-Feb-2017 10:40:09 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[03-Feb-2017 10:40:13 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[03-Feb-2017 10:40:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[03-Feb-2017 10:40:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[03-Feb-2017 10:40:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[06-Feb-2017 07:17:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 10:20:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 10:58:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 11:08:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 12:04:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 12:04:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[06-Feb-2017 13:34:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 13:45:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 14:37:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 15:45:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 17:46:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 18:39:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 18:51:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 19:05:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 19:37:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 19:38:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 19:38:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Feb-2017 19:38:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[07-Feb-2017 04:31:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[07-Feb-2017 08:54:42 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[08-Feb-2017 10:01:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[08-Feb-2017 10:04:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[08-Feb-2017 10:51:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[08-Feb-2017 10:51:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[08-Feb-2017 10:56:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[08-Feb-2017 10:56:14 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[08-Feb-2017 10:56:19 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[08-Feb-2017 10:56:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[08-Feb-2017 10:56:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[08-Feb-2017 10:56:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[08-Feb-2017 10:58:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[08-Feb-2017 11:31:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[08-Feb-2017 18:16:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[08-Feb-2017 20:27:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[09-Feb-2017 06:33:56 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[09-Feb-2017 10:41:09 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[09-Feb-2017 10:41:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[09-Feb-2017 10:41:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[09-Feb-2017 11:16:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[09-Feb-2017 14:35:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[11-Feb-2017 07:54:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[11-Feb-2017 20:52:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 06:10:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 06:10:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 06:11:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 06:11:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 06:12:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 06:12:37 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 06:12:39 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 06:12:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 06:12:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 06:12:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 06:12:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 06:22:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 06:22:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 06:25:08 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 06:25:15 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 06:25:18 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 06:25:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 06:25:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 06:25:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 07:00:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 07:32:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 07:33:15 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 07:36:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 07:37:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 07:37:18 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 07:42:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 07:45:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 07:45:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 07:48:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 07:49:09 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 07:49:11 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 07:49:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 07:49:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 07:49:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 08:00:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 08:00:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 08:03:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 08:03:44 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 08:05:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 08:05:37 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 08:05:41 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 08:05:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 08:05:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 08:05:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 08:06:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 08:06:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 08:07:59 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 08:08:04 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 08:08:07 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 08:08:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 08:08:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 08:08:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 08:08:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 09:04:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 09:05:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 09:09:03 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 09:09:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 09:10:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 09:10:18 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 09:10:21 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 09:10:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 09:10:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 09:10:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 09:41:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:06:23 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:12:10 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:19:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:21:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:31:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:31:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:51:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 10:51:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 10:53:34 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 10:53:40 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 10:53:44 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 10:53:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 10:53:44 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 10:53:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 10:59:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 11:00:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 11:04:15 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 11:05:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 11:24:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 11:24:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 11:26:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 11:26:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 11:26:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 11:27:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Feb-2017 11:28:16 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Feb-2017 11:28:18 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Feb-2017 11:28:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Feb-2017 11:28:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Feb-2017 11:28:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Feb-2017 12:13:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 13:04:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 13:47:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 15:21:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 16:40:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 17:52:22 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 21:45:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Feb-2017 21:46:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Feb-2017 22:12:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 03:41:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 03:41:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[14-Feb-2017 05:38:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 06:12:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[14-Feb-2017 06:13:03 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[14-Feb-2017 06:13:05 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[14-Feb-2017 06:13:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[14-Feb-2017 06:13:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[14-Feb-2017 06:13:06 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[14-Feb-2017 06:25:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 06:30:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[14-Feb-2017 06:33:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 06:33:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[14-Feb-2017 06:34:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[14-Feb-2017 06:40:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[14-Feb-2017 06:41:10 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[14-Feb-2017 06:41:11 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[14-Feb-2017 06:41:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[14-Feb-2017 06:41:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[14-Feb-2017 06:41:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[14-Feb-2017 08:46:57 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 08:47:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[14-Feb-2017 08:50:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[14-Feb-2017 08:50:44 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[14-Feb-2017 08:50:46 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[14-Feb-2017 08:50:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[14-Feb-2017 08:50:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[14-Feb-2017 08:50:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[14-Feb-2017 10:57:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 10:57:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[14-Feb-2017 10:58:12 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[14-Feb-2017 12:19:43 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 13:20:13 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[14-Feb-2017 13:20:15 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[14-Feb-2017 13:20:15 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[14-Feb-2017 13:20:15 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[14-Feb-2017 13:20:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[14-Feb-2017 14:34:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 14:40:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 14:54:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Feb-2017 19:12:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[15-Feb-2017 05:38:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[16-Feb-2017 04:00:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[16-Feb-2017 04:00:55 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[16-Feb-2017 07:57:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[16-Feb-2017 07:57:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[16-Feb-2017 07:57:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[17-Feb-2017 08:56:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 12:21:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 12:34:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 13:38:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 14:42:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 14:42:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[20-Feb-2017 14:52:11 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 14:53:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[20-Feb-2017 14:56:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[20-Feb-2017 17:41:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 18:21:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 19:50:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 19:51:05 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[20-Feb-2017 21:26:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Feb-2017 21:26:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[21-Feb-2017 06:01:41 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[21-Feb-2017 06:42:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[21-Feb-2017 07:52:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[21-Feb-2017 11:09:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[21-Feb-2017 13:27:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[24-Feb-2017 02:41:20 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 10:03:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 10:04:53 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 10:15:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 10:21:33 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 10:26:10 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 10:39:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 13:20:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 13:21:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Feb-2017 18:12:54 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[28-Feb-2017 04:29:34 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[28-Feb-2017 10:25:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[28-Feb-2017 22:51:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[01-Mar-2017 08:33:40 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[09-Mar-2017 11:12:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[09-Mar-2017 11:22:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Mar-2017 18:35:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Mar-2017 13:35:59 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[16-Mar-2017 23:30:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[24-Mar-2017 09:56:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[26-Mar-2017 00:50:15 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 10:19:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 10:22:25 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[03-Apr-2017 10:26:08 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 10:49:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 11:09:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 11:28:37 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 11:30:59 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[03-Apr-2017 11:36:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[03-Apr-2017 11:36:44 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[03-Apr-2017 11:36:45 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[03-Apr-2017 11:36:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[03-Apr-2017 11:36:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[03-Apr-2017 11:36:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[03-Apr-2017 14:36:30 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 15:08:26 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 15:38:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[03-Apr-2017 17:12:38 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[04-Apr-2017 18:58:10 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[06-Apr-2017 17:23:21 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[07-Apr-2017 06:49:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[07-Apr-2017 06:49:40 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[07-Apr-2017 06:51:22 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[07-Apr-2017 06:55:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[07-Apr-2017 06:55:14 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[07-Apr-2017 06:55:16 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[07-Apr-2017 06:55:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[07-Apr-2017 06:55:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[07-Apr-2017 06:55:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[07-Apr-2017 07:19:23 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[07-Apr-2017 10:15:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Apr-2017 04:19:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Apr-2017 08:07:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Apr-2017 08:47:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[10-Apr-2017 09:34:40 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[11-Apr-2017 09:48:17 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[11-Apr-2017 09:48:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[11-Apr-2017 12:00:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[11-Apr-2017 12:01:27 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 13:04:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 13:05:45 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 13:09:48 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 13:18:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 13:19:07 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[12-Apr-2017 13:24:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[12-Apr-2017 13:24:50 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[12-Apr-2017 13:24:52 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[12-Apr-2017 13:24:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[12-Apr-2017 13:24:52 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[12-Apr-2017 13:24:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[12-Apr-2017 13:25:32 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[12-Apr-2017 13:25:32 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[12-Apr-2017 13:25:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[12-Apr-2017 13:25:32 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[12-Apr-2017 13:25:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[12-Apr-2017 13:31:19 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 15:31:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 15:40:06 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 15:41:59 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 15:42:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[12-Apr-2017 15:50:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[12-Apr-2017 16:09:36 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[12-Apr-2017 16:12:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[12-Apr-2017 16:21:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[12-Apr-2017 16:22:05 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[12-Apr-2017 16:22:07 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[12-Apr-2017 16:22:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[12-Apr-2017 16:22:07 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[12-Apr-2017 16:22:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[13-Apr-2017 15:45:02 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Apr-2017 16:33:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Apr-2017 18:01:04 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[13-Apr-2017 18:02:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Apr-2017 18:09:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Apr-2017 18:10:01 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[13-Apr-2017 18:10:37 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[13-Apr-2017 18:11:01 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[13-Apr-2017 18:11:03 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[13-Apr-2017 18:11:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[13-Apr-2017 18:11:03 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[13-Apr-2017 18:11:04 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[14-Apr-2017 14:22:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[14-Apr-2017 14:23:56 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[19-Apr-2017 12:32:55 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[19-Apr-2017 12:33:40 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[19-Apr-2017 12:38:42 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[19-Apr-2017 12:39:16 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[19-Apr-2017 12:39:18 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[19-Apr-2017 12:39:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[19-Apr-2017 12:39:18 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[19-Apr-2017 12:39:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[19-Apr-2017 14:24:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[19-Apr-2017 14:25:46 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[19-Apr-2017 15:49:31 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[19-Apr-2017 19:19:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Apr-2017 14:21:58 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[20-Apr-2017 16:58:12 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[21-Apr-2017 09:30:29 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[21-Apr-2017 09:32:00 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[21-Apr-2017 09:33:27 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[21-Apr-2017 09:34:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[21-Apr-2017 09:42:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[21-Apr-2017 09:43:18 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[21-Apr-2017 09:43:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[21-Apr-2017 09:54:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[21-Apr-2017 09:55:26 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[21-Apr-2017 09:55:28 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[21-Apr-2017 09:55:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[21-Apr-2017 09:55:28 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[21-Apr-2017 09:55:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[21-Apr-2017 16:46:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[21-Apr-2017 16:46:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 25
+[21-Apr-2017 16:46:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 49
+[21-Apr-2017 16:46:06 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/cart.php on line 140
+[24-Apr-2017 10:35:24 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[24-Apr-2017 10:39:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[24-Apr-2017 10:40:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[24-Apr-2017 10:45:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[24-Apr-2017 10:45:33 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[24-Apr-2017 10:45:35 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[24-Apr-2017 10:45:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[24-Apr-2017 10:45:35 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[24-Apr-2017 10:45:36 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[25-Apr-2017 07:53:16 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[26-Apr-2017 14:31:46 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[26-Apr-2017 14:31:59 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[27-Apr-2017 12:58:51 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Apr-2017 16:46:10 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[27-Apr-2017 16:47:11 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[28-Apr-2017 03:57:42 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[28-Apr-2017 03:57:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[28-Apr-2017 04:00:33 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[28-Apr-2017 04:00:48 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[28-Apr-2017 04:00:49 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[28-Apr-2017 04:00:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[28-Apr-2017 04:00:49 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[28-Apr-2017 04:00:50 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[28-Apr-2017 18:12:15 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[29-Apr-2017 08:44:01 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[29-Apr-2017 08:46:02 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/techniar/public_html/ugi6for8/orderform.php on line 332
+[29-Apr-2017 08:50:21 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/confirm.php on line 276
+[29-Apr-2017 08:50:38 America/Denver] PHP Deprecated:  Function eregi() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 146
+[29-Apr-2017 08:50:39 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/techniar/public_html/ugi6for8/phpauthnet_aim.php on line 167
+[29-Apr-2017 08:50:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 91
+[29-Apr-2017 08:50:39 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/process.php on line 93
+[29-Apr-2017 08:50:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/techniar/public_html/ugi6for8/process.php on line 223
+[30-Apr-2017 01:05:47 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[30-Apr-2017 07:27:13 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19
+[30-Apr-2017 07:28:05 America/Denver] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/techniar/public_html/ugi6for8/cart.php on line 19

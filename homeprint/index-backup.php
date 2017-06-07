@@ -1,0 +1,65 @@
+<? include("database.php"); ?>
+<? $page=("facebook-ri.php");?>
+<? $page1=("sorry.php");?>
+<html>
+<head>
+<title>TechniArt - Enter Your Zip Code to Qualify</title>
+<link rel="icon" 
+      type="image/png" 
+      href="icon.png">
+<link rel="STYLESHEET" type="text/css" href="stylesheet.css">
+<link rel="stylesheet" type="text/css" href="ddimgtooltip.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><style type="text/css">
+<!--
+body {
+	background-color: #F0F0F0;
+}
+-->
+</style>
+<script language="Javascript">
+ <!--
+ alert ("This promotion is ONLY for National Grid customers who are residents of Rhode Island!")
+ //-->
+ </script></head>
+<BODY><?php include("bluebar.php") ?><br><table width="850" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><div class="fbwhitebox">
+<?php include_once("analyticstracking.php") ?>
+<?php include("header.php") ?><center>
+<table width="760" border="0" class="bkg_body-main" align="center">
+  <tr>
+    <td valign="top">
+       <table width="638" border="0" align="center">
+        <tr>
+          <td height="51" colspan="5"><div align="center"><span class="section_heading_style1">Special pricing for National Grid (Rhode Island) customers only.<br>
+Please enter your zip code to confirm your eligibilty.</span><br>
+          </div></td>
+        </tr>
+        <tr>
+          <td width="18"></td>
+          <td width="171" class="product_title_sm" align="right">Zip Code:</td>
+          <td width="112" valign="middle" align="center">
+
+<form method="post" action="changezip.php">
+<input type="hidden" name="redir" value="<? echo($page);?>">
+<input type="hidden" name="redir1" value="<? echo($page1);?>">              
+<input type="text" size="8" name="zipcode" class="forms2"></td>
+<td width="260">
+    <input name="submit" type="image" onClick="this.form.submit();" value="Submit" src="pix/submit.jpg" alt="Submit" align="left" border="0"></form></td>
+<td width="55">&nbsp;</td>
+        </tr>
+</table>      
+<br></td>
+  </tr>
+</table></center>
+<table background="back-bottom.jpg" width="760" height="15"border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<?php include_once("footer.php") ?></div></td>
+  </tr>
+</table>
+</body>
+</html>
+

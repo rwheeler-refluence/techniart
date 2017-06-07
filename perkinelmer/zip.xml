@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+http://production.shippingapis.com/ShippingAPITest.dll?API=ZipCodeLookup&XML=<ZipCodeLookupRequest%20973TECHN5203="438EA44PM022">
+     <Address>
+          <Address1></Address1> 
+          <Address2>6406 Ivy Lane</Address2>
+          <City>Greenbelt</City>
+          <State>MD</State>
+     </Address>
+</ZipCodeLookupRequest>

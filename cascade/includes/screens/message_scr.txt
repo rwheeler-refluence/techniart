@@ -1,0 +1,17 @@
+<div style="position:absolute;left:0px;top:0px; height:65px;padding-top:5px;width:570px;font: 18px Fjalla One;font-weight:regular;background-color:#86B800;color:#ffffff;z-index: 5;-moz-border-radius: 12px; border-radius: 12px;">&nbsp;&nbsp;&nbsp;&nbsp;Important Message</div>
+<div id="close" style="position:absolute;left:535px;top:6px; z-index: 50000;"><a href="#" onclick="hidemessage();">&nbsp</a> </div>
+
+<div style="position:absolute;left:0px;top:35px; height:35px;width:570px;font: 16px arial;font-weight:regular;background-color:#ffffff;color:#00000;z-index: 6;">&nbsp;</div>
+
+
+<div style="position:absolute;left:35px;top:55px;width:500px;border: 0px dashed #000000;font: 14px Archivo Narrow;line-height:150%;font-weight:regular;color:#000000;z-index: 6;">
+
+<p id='themessage' style="font: 15px Archivo Narrow;line-height:150%;font-weight:regular;">message from webpage-test.</p>
+<p>&nbsp;</p>
+
+<div id='messagebtn' style="position:absolute;left:180px; height:35px;text-align:center;padding-top: 4px;width:150px;font: 24px Fjalla One;font-weight:regular;background-color:#8EC100;color:#ffffff;z-index: 5;-moz-border-radius: 5px; border-radius: 5px;" onclick="hidemessage();">OK</div>
+
+</div>
+
+
+
